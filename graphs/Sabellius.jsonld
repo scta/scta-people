@@ -1,0 +1,8 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Sabellius",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Sabellius",
+  "sctap:personType": "http://scta.info/resource/patristic",
+  "sctap:shortId": "Sabellius"
+}

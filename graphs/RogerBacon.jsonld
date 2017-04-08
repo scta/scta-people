@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/RogerBacon",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Roger Bacon",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "RogerBacon",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Roger_Bacon"
+  ]
+  
+}

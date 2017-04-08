@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/JohnHiltalingenBasel",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "John Hiltalingen of Basel",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "JohnHiltalingenBasel",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Johann_Hiltalinger"
+  ]
+  
+}

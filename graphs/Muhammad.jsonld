@@ -1,0 +1,8 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Muhammad",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Muhammad",
+  "sctap:personType": "http://scta.info/resource/arabic",
+  "sctap:shortId": "Muhammad"
+}

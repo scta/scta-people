@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Durandus",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Durandus of St. Pourcain",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "Durandus",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Durandus_of_Saint-Pourçain"
+  ]
+  
+}

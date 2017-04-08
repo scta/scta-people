@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/WalterBurley",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Walter Burley",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "WalterBurley",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Walter_Burley"
+  ]
+  
+}

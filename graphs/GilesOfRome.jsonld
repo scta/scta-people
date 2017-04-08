@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/GilesOfRome",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Giles of Rome",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "GilesOfRome",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Giles_of_Rome"
+  ]
+  
+}

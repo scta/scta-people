@@ -1,0 +1,8 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/HolySpirit",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Holy Spirit",
+  "sctap:personType": "http://scta.info/resource/divine",
+  "sctap:shortId": "HolySpirit"
+}

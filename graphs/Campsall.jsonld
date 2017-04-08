@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Campsall",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Richard Campsall",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "Campsall",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/Richard_of_Campsall"
+  ]
+  
+}

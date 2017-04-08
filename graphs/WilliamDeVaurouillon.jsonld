@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/WilliamDeVaurouillon",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "William de Vaurouillon",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "WilliamDeVaurouillon",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/William_Vorilong"
+  ]
+  
+}

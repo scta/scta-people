@@ -1,0 +1,8 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Philemon",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "Philemon",
+  "sctap:personType": "http://scta.info/resource/biblical",
+  "sctap:shortId": "Philemon"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/WilliamCrathorn",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": "William Crathorn",
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "WilliamCrathorn",
+  "owl:sameAs": [
+    "http://dbpedia.org/resource/William_Crathorn"
+  ]
+  
+}
