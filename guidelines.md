@@ -1,5 +1,3 @@
-
-
 # Building a Graph
 
 A SCTA compliant graph must include a reference to the scta context file.
@@ -20,7 +18,7 @@ or
 
 The SCTA context file describes the available vocabularies and property values allowed within a SCTA compliant graph.
 
-## Basic Stum Record
+## Basic Stub Record
 A basic "stub" record looks as follows
 
 ```json
