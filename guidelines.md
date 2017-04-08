@@ -26,7 +26,7 @@ A basic "stub" record looks as follows
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "sctar:Aquinas",
   "@type": "sctar:person",
-  "dc:title": "Thomas Aquinas", //should this be rdfs:label instead of dc:title
+  "dc:title": "Thomas Aquinas",
   "sctap:shortId": "Aquinas",
   "sctap:numberID": 100000,
   "owl:sameAs": [
