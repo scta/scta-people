@@ -10,6 +10,8 @@ Sumbit or update a record by sumitting a github pull request. Application develo
 
 Create a new graph for a given resource hosted in a place that you control and then register that graph with the scta record by submitting a pull request that updates the owl:sameAs property for that record.
 
+An external graphs will be aggregated into the existing graph through a pre-processing build script that rebuilds the scta graph from the distributed sources. The re-built graph will then itself be submitted as a pull request so that this new graph can be compared and reviewed against the previous graph.
+
 To learn how to prepare a graph see our [guidelines](guidelines.md)
 
 # Shared Ontologies
