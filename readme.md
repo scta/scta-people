@@ -14,6 +14,8 @@ An external graphs will be aggregated into the existing graph through a pre-proc
 
 To learn how to prepare a graph see our [guidelines](guidelines.md)
 
+To read a tutorial about to contribute via the github api, read our [contributing via github api tutorial](contributing-via-github-api.md).
+
 # Shared Ontologies
 
 To create or update an scta-people graph that will be accepted (as a pull request) or crawled as a connected graph, it must adopt an ontology and vocabulary that the SCTA understands. In this way, the SCTA aims to identify standards to help the global community ensure that we are talking about the same thing. Adopting agreed upon ontologies ensures that we can avoid false conflicts and discover there are places of genuine disagreement or uncertainty within the collective scholarly consensus.
