@@ -2,7 +2,7 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Achas",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Achas",
-  "sctap:personType": "http://scta.info/resource/biblical",
+  "dc:title": "",
+  "sctap:personType": "http://scta.info/resource/AchasTEST",
   "sctap:shortId": "Achas"
 }
