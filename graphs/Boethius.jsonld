@@ -3,6 +3,6 @@
   "@id": "http://scta.info/resource/Boethius",
   "@type": "http://scta.info/resource/person",
   "dc:title": "Boethius",
-  "sctap:personType": "http://scta.info/resource/http://scta.info/resource/classical",
+  "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Boethius"
 }
