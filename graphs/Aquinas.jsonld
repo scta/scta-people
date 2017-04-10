@@ -4,9 +4,5 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": "Thomas Aquinas",
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Aquinas",
-  "owl:sameAs": [
-    "http://dbpedia.org/resource/Thomas_Aquinas"
-  ]
-  
+  "sctap:shortId": "Aquinas"
 }
