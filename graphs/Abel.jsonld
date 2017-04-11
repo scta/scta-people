@@ -3,6 +3,6 @@
   "@id": "http://scta.info/resource/Abel",
   "@type": "http://scta.info/resource/person",
   "dc:title": "Abel",
-  "sctap:personType": "http://scta.info/resource/biblical",
+  "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Abel"
 }
