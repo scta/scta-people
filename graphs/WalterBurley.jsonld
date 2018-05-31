@@ -2,11 +2,13 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/WalterBurley",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Walter Burley",
+  "dc:title": [{"@value": "Walter Burley", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WalterBurley",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Walter_Burley"
-  ]
+          "http://dbpedia.org/resource/Walter_Burley",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1862572.json"
+   ]
   
-}
+  }
+    

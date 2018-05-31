@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Melissus",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Melissus of Samos",
+  "dc:title": [{"@value": "Melissus of Samos", "@language": "en"},{"@value": "Melissus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Melissus"
-}
+  }
+    

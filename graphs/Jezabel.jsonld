@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Jezabel",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Jezebel",
+  "dc:title": [{"@value": "Jezebel", "@language": "en"},{"@value": "Hiezabel", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Jezabel"
-}
+  }
+    

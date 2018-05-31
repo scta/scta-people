@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/NicholasOfLyra",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Nicholas of Lyra",
+  "dc:title": [{"@value": "Nicholas of Lyra", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "NicholasOfLyra",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Nicholas_of_Lyra"
-  ]
+          "http://dbpedia.org/resource/Nicholas_of_Lyra"
+   ]
   
-}
+  }
+    

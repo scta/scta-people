@@ -1,0 +1,14 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/DominicusGundissalinus",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Dominicus Gundissalinus", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "DominicusGundissalinus",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1237726.json",
+          "http://dbpedia.org/resource/Dominicus_Gundissalinus"
+   ]
+  
+  }
+    

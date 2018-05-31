@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/HermannusDeScildis",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Hermann of Schildesche",
+  "dc:title": [{"@value": "Hermann of Schildesche", "@language": "en"},{"@value": "Hermannus de Scildis", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "HermannusDeScildis"
-}
+  }
+    

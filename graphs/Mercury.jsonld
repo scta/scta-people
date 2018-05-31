@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Mercury",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Mercury",
+  "dc:title": [{"@value": "Mercury", "@language": "en"},{"@value": "Mercurius", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Mercury"
-}
+  }
+    

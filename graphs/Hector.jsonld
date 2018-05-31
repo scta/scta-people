@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Hector",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Hector",
+  "dc:title": [{"@value": "Hector", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Hector"
-}
+  }
+    

@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/GilesOfRome",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Giles of Rome",
+  "dc:title": [{"@value": "Giles of Rome", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "GilesOfRome",
+  "sctap:shortId": "GilesOfRome","sctap:order":  "Augustinian",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Giles_of_Rome"
-  ]
+          "http://dbpedia.org/resource/Giles_of_Rome"
+   ]
   
-}
+  }
+    
