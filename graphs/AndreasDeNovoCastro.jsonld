@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/AndreasDeNovoCastro",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Andreas de Novo Castro",
+  "dc:title": [{"@value": "Andreas de Novo Castro", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "AndreasDeNovoCastro"
-}
+  }
+    

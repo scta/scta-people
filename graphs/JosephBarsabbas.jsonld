@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/JosephBarsabbas",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Joseph Barsabbas",
+  "dc:title": [{"@value": "Joseph Barsabbas", "@language": "en"},{"@value": "Barsabbas", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "JosephBarsabbas"
-}
+  }
+    

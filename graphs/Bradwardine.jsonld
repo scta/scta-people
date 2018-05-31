@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Bradwardine",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Thomas Bradwardine",
+  "dc:title": [{"@value": "Thomas Bradwardine", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Bradwardine",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Thomas_Bradwardine"
-  ]
+          "http://dbpedia.org/resource/Thomas_Bradwardine"
+   ]
   
-}
+  }
+    

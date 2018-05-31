@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/PeterDeAquila",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Peter de Aquila",
+  "dc:title": [{"@value": "Peter de Aquila", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PeterDeAquila",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Peter_of_Aquila"
-  ]
+          "http://dbpedia.org/resource/Peter_of_Aquila"
+   ]
   
-}
+  }
+    

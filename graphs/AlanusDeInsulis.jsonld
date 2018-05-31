@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/AlanusDeInsulis",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Alain of Lille",
+  "dc:title": [{"@value": "Alain of Lille", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "AlanusDeInsulis",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Alain_de_Lille"
-  ]
+          "http://dbpedia.org/resource/Alain_de_Lille"
+   ]
   
-}
+  }
+    

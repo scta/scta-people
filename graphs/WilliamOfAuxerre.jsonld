@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/WilliamOfAuxerre",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "William of Auxerre",
+  "dc:title": [{"@value": "William of Auxerre", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WilliamOfAuxerre",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/William_of_Auxerre"
-  ]
+          "http://dbpedia.org/resource/William_of_Auxerre"
+   ]
   
-}
+  }
+    

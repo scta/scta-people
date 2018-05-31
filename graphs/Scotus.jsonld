@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Scotus",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "John Duns Scotus",
+  "dc:title": [{"@value": "John Duns Scotus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Scotus",
+  "sctap:shortId": "Scotus","sctap:order":  "Franciscan",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Duns_Scotus"
-  ]
+          "http://dbpedia.org/resource/Duns_Scotus"
+   ]
   
-}
+  }
+    

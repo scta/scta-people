@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Wodeham",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Adam Wodeham",
+  "dc:title": [{"@value": "Adam Wodeham", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Wodeham",
+  "sctap:shortId": "Wodeham","sctap:order":  "Franciscan",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Adam_de_Wodeham"
-  ]
+          "http://dbpedia.org/resource/Adam_de_Wodeham"
+   ]
   
-}
+  }
+    

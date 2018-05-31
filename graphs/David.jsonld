@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/David",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "David, King",
+  "dc:title": [{"@value": "David, King", "@language": "en"},{"@value": "David", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "David"
-}
+  }
+    

@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Abel",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Abel",
+  "dc:title": [{"@value": "Abel", "@language": "en"},{"@value": "Abel", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Abel"
-}
+  }
+    

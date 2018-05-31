@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/JohnTheBaptist",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "John The Baptist",
+  "dc:title": [{"@value": "John The Baptist", "@language": "en"},{"@value": "Johannes Baptista", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "JohnTheBaptist"
-}
+  }
+    

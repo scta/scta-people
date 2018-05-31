@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Paul",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Paul, the Apostle",
+  "dc:title": [{"@value": "Paul, the Apostle", "@language": "en"},{"@value": "Paulus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Paul"
-}
+  }
+    

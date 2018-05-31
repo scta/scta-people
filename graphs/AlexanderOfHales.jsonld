@@ -2,11 +2,12 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/AlexanderOfHales",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Alexander of Hales",
+  "dc:title": [{"@value": "Alexander of Hales", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AlexanderOfHales",
+  "sctap:shortId": "AlexanderOfHales","sctap:order":  "Franciscan",
   "owl:sameAs": [
-    "http://dbpedia.org/resource/Alexander_of_Hales"
-  ]
+          "http://dbpedia.org/resource/Alexander_of_Hales"
+   ]
   
-}
+  }
+    

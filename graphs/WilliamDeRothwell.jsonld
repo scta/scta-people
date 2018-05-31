@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/WilliamDeRothwell",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "William de Rothwell",
+  "dc:title": [{"@value": "William de Rothwell", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WilliamDeRothwell"
-}
+  }
+    

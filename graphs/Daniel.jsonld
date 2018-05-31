@@ -2,7 +2,8 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Daniel",
   "@type": "http://scta.info/resource/person",
-  "dc:title": "Daniel",
+  "dc:title": [{"@value": "Daniel", "@language": "en"},{"@value": "Daniel", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Daniel"
-}
+  }
+    
