@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Osbert Pickingham", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "OsbertPickingham"
+  "sctap:shortId": "OsbertPickingham",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q19325038.json"
+   ]
+  
   }
     

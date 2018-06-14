@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Wyclif", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Wyclif"
+  "sctap:shortId": "Wyclif",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q173893.json"
+   ]
+  
   }
     

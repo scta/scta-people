@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Bradwardine",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Thomas_Bradwardine"
+          "http://dbpedia.org/resource/Thomas_Bradwardine",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q461116.json"
    ]
   
   }

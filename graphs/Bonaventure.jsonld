@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Bonaventure", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Bonaventure","sctap:order":  "Franciscan"
+  "sctap:shortId": "Bonaventure","sctap:order":  "Franciscan",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q43746.json"
+   ]
+  
   }
     

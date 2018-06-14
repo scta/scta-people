@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Bartolomeo Mastri", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "BartolomeoMastri"
+  "sctap:shortId": "BartolomeoMastri",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q3635397.json"
+   ]
+  
   }
     

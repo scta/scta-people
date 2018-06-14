@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "GilesOfRome","sctap:order":  "Augustinian",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Giles_of_Rome"
+          "http://dbpedia.org/resource/Giles_of_Rome",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q380647.json"
    ]
   
   }

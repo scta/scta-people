@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "AlanusDeInsulis",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Alain_de_Lille"
+          "http://dbpedia.org/resource/Alain_de_Lille",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q4313.json"
    ]
   
   }

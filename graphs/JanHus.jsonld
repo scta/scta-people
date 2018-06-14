@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "JanHus",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Jan_Hus"
+          "http://dbpedia.org/resource/Jan_Hus",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q43977.json"
    ]
   
   }

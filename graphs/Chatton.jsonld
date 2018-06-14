@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Walter Chatton", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Chatton"
+  "sctap:shortId": "Chatton",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1373185.json"
+   ]
+  
   }
     

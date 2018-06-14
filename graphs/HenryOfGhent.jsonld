@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "HenryOfGhent",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Henry_of_Ghent"
+          "http://dbpedia.org/resource/Henry_of_Ghent",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q707637.json"
    ]
   
   }

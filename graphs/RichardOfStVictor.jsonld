@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Richard of St. Victor", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RichardOfStVictor"
+  "sctap:shortId": "RichardOfStVictor",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1344799.json"
+   ]
+  
   }
     

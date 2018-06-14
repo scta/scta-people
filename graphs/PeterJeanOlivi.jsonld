@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PeterJeanOlivi",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Peter_John_Olivi"
+          "http://dbpedia.org/resource/Peter_John_Olivi",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q326307.json"
    ]
   
   }

@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Scotus","sctap:order":  "Franciscan",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Duns_Scotus"
+          "http://dbpedia.org/resource/Duns_Scotus",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q190089.json"
    ]
   
   }

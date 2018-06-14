@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PetrusHispanus",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Peter_of_Spain"
+          "http://dbpedia.org/resource/Peter_of_Spain",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q320546.json"
    ]
   
   }

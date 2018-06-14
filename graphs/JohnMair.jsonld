@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Mair", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohnMair"
+  "sctap:shortId": "JohnMair",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q579194.json"
+   ]
+  
   }
     

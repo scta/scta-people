@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WilliamCrathorn",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/William_Crathorn"
+          "http://dbpedia.org/resource/William_Crathorn",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q4355955.json"
    ]
   
   }

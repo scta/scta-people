@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Albert","sctap:order":  "Dominican",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Albertus_Magnus"
+          "http://dbpedia.org/resource/Albertus_Magnus",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q60059.json"
    ]
   
   }

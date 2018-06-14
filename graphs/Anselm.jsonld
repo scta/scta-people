@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Anselm",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Anselm_of_Canterbury"
+          "http://dbpedia.org/resource/Anselm_of_Canterbury",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q43939.json"
    ]
   
   }

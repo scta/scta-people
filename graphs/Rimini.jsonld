@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Rimini","sctap:order":  "Augustinian",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Gregory_of_Rimini"
+          "http://dbpedia.org/resource/Gregory_of_Rimini",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q540799.json"
    ]
   
   }

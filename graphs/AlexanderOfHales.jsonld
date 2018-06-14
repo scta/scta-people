@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "AlexanderOfHales","sctap:order":  "Franciscan",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Alexander_of_Hales"
+          "http://dbpedia.org/resource/Alexander_of_Hales",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q457968.json"
    ]
   
   }

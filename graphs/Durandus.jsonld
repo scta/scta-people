@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Durandus","sctap:order":  "Dominican",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Durandus_of_Saint-Pourçain"
+          "http://dbpedia.org/resource/Durandus_of_Saint-Pourçain",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1266754.json"
    ]
   
   }

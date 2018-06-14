@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "VincentOfBeauvais","sctap:order":  "Dominican",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Vincent_of_Beauvais"
+          "http://dbpedia.org/resource/Vincent_of_Beauvais",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q455162.json"
    ]
   
   }

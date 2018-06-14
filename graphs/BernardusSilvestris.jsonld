@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Bernardus Silvestris", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "BernardusSilvestris"
+  "sctap:shortId": "BernardusSilvestris",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q523113.json"
+   ]
+  
   }
     

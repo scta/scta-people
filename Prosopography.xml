@@ -276,6 +276,11 @@
           </person>
         </listPerson>
         <listPerson type="Classical">
+          <person xml:id="Galen">
+            <persName xml:lang="en">Galen</persName>
+            <note type="dbpedia-url">http://dbpedia.org/resource/Galen</note>
+            <note type="wikidata-id">Q8778</note>
+          </person>
           <person xml:id="Zeno">
             <persName xml:lang="en">Zeno of Elea</persName>
           </person>
@@ -691,6 +696,7 @@
           <person xml:id="JeanGerson">
             <persName xml:lang="en">Jean Gerson</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Jean_Gerson</note>
+            <note type="wikidata-id">Q281179</note>
           </person>
           <person xml:id="Aquinas">
             <persName xml:lang="en">Thomas Aquinas</persName>
@@ -710,11 +716,13 @@
             <persName xml:lang="en">Albert the Great</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Albertus_Magnus</note>
             <note type="order">Dominican</note>
+            <note type="wikidata-id">Q60059</note>
           </person>
           <person xml:id="GilesOfRome">
             <persName xml:lang="en">Giles of Rome</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Giles_of_Rome</note>
             <note type="order">Augustinian</note>
+            <note type="wikidata-id">Q380647</note>
           </person>
           <person xml:id="Wodeham">
             <persName xml:lang="en">Adam Wodeham</persName>
@@ -722,16 +730,19 @@
             <!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200009</note> -->
             <note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200009</note>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q4680059</note>
           </person>
           <person xml:id="Ockham">
             <persName xml:lang="en">William of Ockham</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Ockham</note>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q43936</note>
           </person>
           <person xml:id="Scotus">
             <persName xml:lang="en">John Duns Scotus</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Duns_Scotus</note>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q190089</note>
           </person>
           <person xml:id="Ripa">
             <persName xml:lang="en">John of Ripa</persName>
@@ -741,11 +752,13 @@
           <person xml:id="Anselm">
             <persName xml:lang="en">Anselm</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Anselm_of_Canterbury</note>
+            <note type="wikidata-id">Q43939</note>
           </person>
           <person xml:id="Aureoli">
             <persName xml:lang="en">Peter Aureoli</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Petrus_Aureolus</note>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q1383191</note>
           </person>
           <person xml:id="RogerBacon">
             <persName xml:lang="en">Roger Bacon</persName>
@@ -761,36 +774,44 @@
           <person xml:id="Campsall">
             <persName xml:lang="en">Richard Campsall</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_of_Campsall</note>
+            <note type="wikidata-id">Q7330231</note>
           </person>
           <person xml:id="Bradwardine">
             <persName xml:lang="en">Thomas Bradwardine</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Thomas_Bradwardine</note>
+            <note type="wikidata-id">Q461116</note>
           </person>
           <person xml:id="Durandus">
             <persName xml:lang="en">Durandus of St. Pourcain</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Durandus_of_Saint-Pourçain</note>
             <note type="order">Dominican</note>
+            <note type="wikidata-id">Q1266754</note>
           </person>
           <person xml:id="Rimini">
             <persName xml:lang="en">Gregory of Rimini</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Gregory_of_Rimini</note>
             <note type="order">Augustinian</note>
+            <note type="wikidata-id">Q540799</note>
           </person>
           <person xml:id="HenryOfGhent">
             <persName xml:lang="en">Henry of Ghent</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Henry_of_Ghent</note>
+            <note type="wikidata-id">Q707637</note>
           </person>
           <person xml:id="WilliamOfAuxerre">
             <persName xml:lang="en">William of Auxerre</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Auxerre</note>
+            <note type="wikidata-id">Q931898</note>
           </person>
           <person xml:id="WilliamOfParis">
             <persName xml:lang="en">William of Paris</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/William_of_Auvergne_(bishop)</note>
+            <note type="wikidata-id">Q1347826</note>
           </person>
           <person xml:id="NicholasOfLyra">
             <persName xml:lang="en">Nicholas of Lyra</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Nicholas_of_Lyra</note>
+            <note type="wikidata-id">Q1969164</note>
           </person>
           <person xml:id="Heytesbury">
             <persName xml:lang="en">William Hetesbury</persName>
@@ -799,28 +820,36 @@
           <person xml:id="RichardKilvington">
             <persName xml:lang="en">Richard of Kilvington</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_Kilvington</note>
+            <note type="wikidata-id">Q468950</note>
           </person>
           <person xml:id="RichardOfStVictor">
             <persName xml:lang="en">Richard of St. Victor</persName>
+            <note type="wikidata-id">Q1344799</note>
           </person>
           <person xml:id="Maimonides">
             <persName xml:lang="en">Moses Maimonides</persName>
+            <note type="wikidata-id">Q127398</note>
           </person>
           <person xml:id="Chatton">
             <persName xml:lang="en">Walter Chatton</persName>
+            <note type="wikidata-id">Q1373185</note>
           </person>
           <person xml:id="Bonaventure">
             <persName xml:lang="en">Bonaventure</persName>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q43746</note>
           </person>
           <person xml:id="Lombard">
             <persName xml:lang="en">Peter Lombard</persName>
+            <note type="wikidata-id">Q315347</note>
           </person>
           <person xml:id="Oyta">
             <persName xml:lang="en">Henry Totting de Oyta</persName>
+            <note type="wikidata-id">Q1277022</note>
           </person>
           <person xml:id="Wyclif">
             <persName xml:lang="en">John Wyclif</persName>
+            <note type="wikidata-id">Q173893</note>
           </person>
           <person xml:id="Candia">
             <persName xml:lang="en">Peter Candia</persName>
@@ -828,24 +857,30 @@
           <person xml:id="HughOfStVictor">
             <persName xml:lang="en">Hugh of St. Victor</persName>
             <note type="order">Victorine</note>
+            <note type="wikidata-id">Q317554</note>
           </person>
           <person xml:id="Grosseteste">
             <persName xml:lang="en">Robert Grosseteste</persName>
+            
           </person>
           <person xml:id="Moderni">
             <persName xml:lang="en">Moderni</persName>
           </person>
           <person xml:id="Bernard">
             <persName xml:lang="en">Bernard of Clairvaux</persName>
+            <note type="wikidata-id">Q188411</note>
           </person>
           <person xml:id="Langenstein">
             <persName xml:lang="en">Henry of Langenstein</persName>
+            <note type="wikidata-id">Q71997</note>
           </person>
           <person xml:id="JohnOfSalisbury">
             <persName xml:lang="en">John of Salisbury</persName>
+            <note type="wikidata-id">Q264028</note>
           </person>
           <person xml:id="JohnOfRodington">
             <persName xml:lang="en">John of Rodington</persName>
+            <note type="wikidata-id">Q18527529</note>
           </person>
           <person xml:id="JohnKlenkok">
             <persName xml:lang="en">John Klenkok</persName>
@@ -857,10 +892,12 @@
           <person xml:id="RichardFitzRalph">
             <persName xml:lang="en">Richard FitzRalph</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_FitzRalph</note>
+            <note type="wikidata-id">Q7325689</note>
           </person>
           <person xml:id="MarsiliusOfPadua">
             <persName xml:lang="en">Marsilius Of Padua</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Marsilius_of_Padua</note>
+            <note type="wikidata-id">Q315357</note>
           </person>
           <person xml:id="RobertHalifax">
             <persName xml:lang="en">Robert Halifax</persName>
@@ -874,6 +911,7 @@
           <person xml:id="NicholasOresme">
             <persName xml:lang="en">Nicholas Oresme</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Nicole_Oresme</note>
+            <note type="wikidata-id">Q310777</note>
           </person>
           <person xml:id="VincentOfBeauvais">
             <persName xml:lang="en">Vincent of Beauvais</persName>
@@ -882,11 +920,13 @@
               encyclopedia that was used in the Middle Ages.</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/Vincent_of_Beauvais</note>
             <note type="order">Dominican</note>
+            <note type="wikidata-id">Q455162</note>
           </person>
           <person xml:id="BernardusSilvestris">
             <persName xml:lang="en">Bernardus Silvestris</persName>
             <note>Wikipedia: "Bernard Silvestris, also known as Bernardus Silvestris and Bernard
               Silvester, was a Medieval Platonist philosopher and poet of the 12th century."</note>
+            <note type="wikidata-id">Q523113</note>
           </person>
           <person xml:id="PeterOfSalliente">
             <persName xml:lang="en">Peter Of Salliente</persName>
@@ -905,14 +945,18 @@
             <persName xml:lang="en">Alexander of Hales</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Alexander_of_Hales</note>
             <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q457968</note>
+            
           </person>
           <person xml:id="peter-plaoul">
             <persName xml:lang="en">Peter Plaoul</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_Plaoul</note>
+            <note type="wikidata-id">Q7176408</note>
           </person>
           <person xml:id="JamesViterbo">
             <persName xml:lang="en">James of Viterbo</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Giacomo_da_Viterbo</note>
+            <note type="wikidata-id">Q352625</note>
           </person>
           <person xml:id="JohannesBrakel">
             <persName xml:lang="en">Johannes de Brake</persName>
@@ -955,18 +999,24 @@
           <person xml:id="AlanusDeInsulis">
             <persName xml:lang="en">Alain of Lille</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Alain_de_Lille</note>
+            <note type="wikidata-id">Q4313</note>
           </person>
           <person xml:id="PetrusDePalude">
             <persName xml:lang="en">Peter of Palude</persName>
             <note type="dbpedia-url">http://en.wikipedia.org/wiki/Peter_Paludanus</note>
+            <note type="wikidata-id">Q2081053</note>
+            
           </person>
           <person xml:id="OsbertPickingham">
             <persName xml:lang="en">Osbert Pickingham</persName>
+            <note type="wikidata-id">Q19325038</note>
+            <note type="order">Carmelite</note>
           </person>
           <person xml:id="PetrusHispanus">
             <persName xml:lang="en">Peter Hispanicus</persName>
             <persName xml:lang="la">Petrus Hispanus</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Spain</note>
+            <note type="wikidata-id">Q320546</note>
           </person>
           <person xml:id="DionysiusDeBruges">
             <persName xml:lang="en">Dionysius de Bruges</persName>
@@ -980,13 +1030,21 @@
           <person xml:id="JanHus">
             <persName xml:lang="en">Jan Hus</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Jan_Hus</note>
+            <note type="wikidata-id">Q43977</note>
           </person>
           <person xml:id="JohnMirecourt">
             <persName xml:lang="en">John Mirecourt</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/John_of_Mirecourt</note>
+            <note type="wikidata-id">Q371962</note>
           </person>
           <person xml:id="LambertusDeMonte">
+            <!-- the earlier lambertus who does mention plaoul -->
             <persName xml:lang="en">Lambertus de Monte</persName>
+          </person>
+          <person xml:id="LambertusDeMonte2">
+            <!-- the later lambertus; who doesn't mentione plaoul -->
+            <persName xml:lang="en">Lambertus de Monte</persName>
+            <note type="wikidata-id">Q3825797</note>
           </person>
           <person xml:id="NicolasDeDinkelsbuhl">
             <persName xml:lang="en">Nicolas de Dinkelsbuhl</persName>
@@ -994,10 +1052,12 @@
           <person xml:id="PeterDeAquila">
             <persName xml:lang="en">Peter de Aquila</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Aquila</note>
+            <note type="wikidata-id">Q3328895</note>
           </person>
           <person xml:id="PetrusDeTarantasia">
             <persName xml:lang="en">Petrus de Tarantasia</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Tarentaise</note>
+            <note type="wikidata-id">Q170871</note>
           </person>
           <person xml:id="PetrusGracilis">
             <persName xml:lang="en">Petrus Gracilis</persName>
@@ -1006,14 +1066,17 @@
           <person xml:id="PeterJeanOlivi">
             <persName xml:lang="en">Peter Jean Olivi</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_John_Olivi</note>
+            <note type="wikidata-id">Q326307</note>
           </person>
           <person xml:id="RicardusDeMediavilla">
             <persName xml:lang="en">Ricardus de Mediavilla</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_of_Middleton</note>
+            <note type="wikidata-id">Q446656</note>
           </person>
           <person xml:id="WilliamCrathorn">
             <persName xml:lang="en">William Crathorn</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/William_Crathorn</note>
+            <note type="wikidata-id">Q4355955</note>
           </person>
           <person xml:id="WilliamDeRothwell">
             <persName xml:lang="en">William de Rothwell</persName>
@@ -1021,6 +1084,7 @@
           <person xml:id="WilliamDeVaurouillon">
             <persName xml:lang="en">William de Vaurouillon</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/William_Vorilong</note>
+            <note type="wikidata-id">Q15431520</note>
           </person>
           <person xml:id="AugustinusDeAncona">
             <persName xml:lang="en">Augustinus de Ancona</persName>
@@ -1037,15 +1101,19 @@
             <persName xml:lang="en">John Mair</persName>
             <!-- <note type="rcs-url">http://rcs.philsem.unibas.ch/feed/200266</note> -->
             <note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200266</note>
+            <note type="wikidata-id">Q579194</note>
+            
           </person>
           <person xml:id="JohnDinsdale">
             <persName xml:lang="en">John Dinsdale</persName>
           </person>
           <person xml:id="AlbertusDeSaxonia">
             <persName xml:lang="en">Albertus De Saxonia</persName>
+            <note type="wikidata-id">Q61044</note>
           </person>
           <person xml:id="JordonOfSaxony">
             <persName xml:lang="en">Jordon of Saxony</persName>
+            <note type="wikidata-id">Q60790</note>
           </person>
           <person xml:id="PlacidusAegidiusMelander">
             <persName xml:lang="en">Placidus Aegidius Melander</persName>
@@ -1055,15 +1123,19 @@
           </person>
           <person xml:id="GabrielBiel">
             <persName xml:lang="en">Gabriel Biel</persName>
+            <note type="wikidata-id">Q61369</note>
           </person>
           <person xml:id="JohnOfJandun">
             <persName xml:lang="en">John of Jandun</persName>
+            <note type="wikidata-id">Q573807</note>
           </person>
           <person xml:id="PicoDellaMirandola">
             <persName xml:lang="en">Pico Della Mirandola</persName>
+            <note type="wikidata-id">Q182128</note>
           </person>
           <person xml:id="JacquesAlmain">
             <persName xml:lang="en">Jacques Almain</persName>
+            <note type="wikidata-id">Q617670</note>
           </person>
           <person xml:id="AndreasDeNovoCastro">
             <persName xml:lang="en">Andreas de Novo Castro</persName>
@@ -1073,6 +1145,7 @@
           </person>
           <person xml:id="JohnPeckham">
             <persName xml:lang="en">John Peckham</persName>
+            <note type="wikidata-id">Q1322939</note>
           </person>
           <person xml:id="AugustinusDeMonsterbek">
             <persName xml:lang="en">Augustinus de Monsterbek</persName>
@@ -1082,9 +1155,11 @@
           </person>
           <person xml:id="SimonFaversham">
             <persName xml:lang="en">Simon of Faversham</persName>
+            <note type="wikidata-id">Q7520146</note>
           </person>
           <person xml:id="RaymondOfPenyafort">
             <persName xml:lang="en">Raymond Of Penyafort</persName>
+            <note type="wikidata-id">Q318980</note>
           </person>
           <person xml:id="GuillelmusHedonensis">
             <persName xml:lang="en">Guillelmus Hedonensis</persName>
@@ -1094,6 +1169,7 @@
           </person>
           <person xml:id="BartolomeoMastri">
             <persName xml:lang="en">Bartolomeo Mastri</persName>
+            <note type="wikidata-id">Q3635397</note>
           </person>
           <person xml:id="AlexanderDeAlexandria">
             <persName xml:lang="en">Alexander of Alexandria</persName>
@@ -1101,15 +1177,18 @@
           </person>
           <person xml:id="PetrusDeAilly">
             <persName xml:lang="en">Petrus de Ailly</persName>
+            <note type="wikidata-id">Q318580</note>
           </person>
           <person xml:id="SigerOfBrabant">
             <persName xml:lang="en">Siger Of Brabant</persName>
+            <note type="wikidata-id">Q355903</note>
           </person>
           <person xml:id="FranciscusTurrettinus">
             <persName xml:lang="en">Franciscus Turrettinus</persName>
           </person>
           <person xml:id="JohannGerhard">
             <persName xml:lang="en">Johann Gerhard</persName>
+            <note type="wikidata-id">Q5482931</note>
           </person>
           <person xml:id="BerengarOfTours">
             <persName xml:lang="en">Berengar of Tours</persName>
@@ -1151,6 +1230,11 @@
             <note type="dbpedia-url">http://dbpedia.org/resource/Antonius_Andreas</note>
             <note type="wikidata-id">Q3620412</note>
             <note type="order">Franciscan</note>
+          </person>
+          <person xml:id="FrancisOfMarchia">
+            <persName xml:lang="en">Francis of Marchia</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q5482931</note>
           </person>
         </listPerson>
       </listPerson>

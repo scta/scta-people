@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PetrusDeTarantasia",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Peter_of_Tarentaise"
+          "http://dbpedia.org/resource/Peter_of_Tarentaise",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q170871.json"
    ]
   
   }

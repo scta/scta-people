@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "RicardusDeMediavilla",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Richard_of_Middleton"
+          "http://dbpedia.org/resource/Richard_of_Middleton",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q446656.json"
    ]
   
   }

@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Aureoli","sctap:order":  "Franciscan",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Petrus_Aureolus"
+          "http://dbpedia.org/resource/Petrus_Aureolus",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1383191.json"
    ]
   
   }

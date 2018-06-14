@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Jacques Almain", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JacquesAlmain"
+  "sctap:shortId": "JacquesAlmain",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q617670.json"
+   ]
+  
   }
     

@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "NicholasOfLyra",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Nicholas_of_Lyra"
+          "http://dbpedia.org/resource/Nicholas_of_Lyra",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1969164.json"
    ]
   
   }

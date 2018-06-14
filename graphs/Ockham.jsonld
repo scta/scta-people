@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Ockham","sctap:order":  "Franciscan",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/William_of_Ockham"
+          "http://dbpedia.org/resource/William_of_Ockham",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q43936.json"
    ]
   
   }

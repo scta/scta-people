@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PeterDeAquila",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Peter_of_Aquila"
+          "http://dbpedia.org/resource/Peter_of_Aquila",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q3328895.json"
    ]
   
   }

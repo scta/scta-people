@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "RichardFitzRalph",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Richard_FitzRalph"
+          "http://dbpedia.org/resource/Richard_FitzRalph",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q7325689.json"
    ]
   
   }

@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "NicholasOresme",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Nicole_Oresme"
+          "http://dbpedia.org/resource/Nicole_Oresme",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q310777.json"
    ]
   
   }

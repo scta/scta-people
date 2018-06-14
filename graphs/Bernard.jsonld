@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Bernard of Clairvaux", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Bernard"
+  "sctap:shortId": "Bernard",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q188411.json"
+   ]
+  
   }
     

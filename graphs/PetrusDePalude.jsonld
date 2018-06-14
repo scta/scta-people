@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "PetrusDePalude",
   "owl:sameAs": [
-          "http://en.wikipedia.org/wiki/Peter_Paludanus"
+          "http://en.wikipedia.org/wiki/Peter_Paludanus",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q2081053.json"
    ]
   
   }

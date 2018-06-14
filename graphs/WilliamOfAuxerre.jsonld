@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WilliamOfAuxerre",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/William_of_Auxerre"
+          "http://dbpedia.org/resource/William_of_Auxerre",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q931898.json"
    ]
   
   }

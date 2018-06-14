@@ -6,7 +6,8 @@
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Wodeham","sctap:order":  "Franciscan",
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Adam_de_Wodeham"
+          "http://dbpedia.org/resource/Adam_de_Wodeham",
+          "https://www.wikidata.org/wiki/Special:EntityData/Q4680059.json"
    ]
   
   }

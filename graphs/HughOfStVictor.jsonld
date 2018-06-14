@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Hugh of St. Victor", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "HughOfStVictor","sctap:order":  "Victorine"
+  "sctap:shortId": "HughOfStVictor","sctap:order":  "Victorine",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q317554.json"
+   ]
+  
   }
     
