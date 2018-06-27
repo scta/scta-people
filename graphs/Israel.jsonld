@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Israel", "@language": "en"},{"@value": "Israhel ", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Israel"
+      ],
   }
     

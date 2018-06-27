@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Pythagoras", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Pythagoras"
+      ],
   }
     

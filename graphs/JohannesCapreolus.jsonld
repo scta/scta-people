@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Johannes Capreolus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohannesCapreolus","sctap:order":  "Dominican",
+  "sctap:shortId": "JohannesCapreolus",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Dominican"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q6170357.json",
           "http://dbpedia.org/resource/Jean_Capréolus"

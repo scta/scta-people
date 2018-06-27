@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Peckham", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohnPeckham",
+  "sctap:shortId": "JohnPeckham"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q1322939.json"
    ]

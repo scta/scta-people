@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Duns Scotus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Scotus","sctap:order":  "Franciscan",
+  "sctap:shortId": "Scotus",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Duns_Scotus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q190089.json"

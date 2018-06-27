@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Roger Bacon", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RogerBacon","sctap:order":  "Franciscan",
+  "sctap:shortId": "RogerBacon",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Roger_Bacon",
           "https://www.wikidata.org/wiki/Special:EntityData/Q171677.json"

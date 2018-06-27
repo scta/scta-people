@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "William de Vaurouillon", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "WilliamDeVaurouillon",
+  "sctap:shortId": "WilliamDeVaurouillon"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/William_Vorilong",
           "https://www.wikidata.org/wiki/Special:EntityData/Q15431520.json"

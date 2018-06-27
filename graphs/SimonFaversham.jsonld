@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Simon of Faversham", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "SimonFaversham",
+  "sctap:shortId": "SimonFaversham"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q7520146.json"
    ]

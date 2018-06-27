@@ -19,7 +19,10 @@
   "dc:title": [<xsl:for-each select="$names">{"@value": "<xsl:value-of select="."/>", "@language": "<xsl:value-of select="@xml:lang"/>"}<xsl:if test="not(position() eq last())">,</xsl:if></xsl:for-each>],
   "sctap:personType": "http://scta.info/resource/<xsl:value-of select="$type"/>",
   "sctap:shortId": "<xsl:value-of select="$id"/>"<xsl:if test="$order">,</xsl:if>
-  <xsl:if test="$order">"sctap:order":  "<xsl:value-of select="$order"/>"</xsl:if><xsl:if test="$sameas">,
+  <xsl:if test="$order">
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/<xsl:value-of select="$order"/>"</xsl:if>
+      ],<xsl:if test="$sameas">
   "owl:sameAs": [<xsl:for-each select="$sameas">
       <xsl:choose>
         <xsl:when test="@type eq 'wikidata-id'">

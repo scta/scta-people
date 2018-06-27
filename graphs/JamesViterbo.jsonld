@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "James of Viterbo", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JamesViterbo",
+  "sctap:shortId": "JamesViterbo"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Giacomo_da_Viterbo",
           "https://www.wikidata.org/wiki/Special:EntityData/Q352625.json"

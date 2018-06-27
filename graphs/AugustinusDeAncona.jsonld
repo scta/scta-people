@@ -4,6 +4,9 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Augustinus de Ancona", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AugustinusDeAncona","sctap:order":  "Augustinian"
+  "sctap:shortId": "AugustinusDeAncona",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   }
     

@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Alexander of Hales", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AlexanderOfHales","sctap:order":  "Franciscan",
+  "sctap:shortId": "AlexanderOfHales",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Alexander_of_Hales",
           "https://www.wikidata.org/wiki/Special:EntityData/Q457968.json"

@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Hermann of Schildesche", "@language": "en"},{"@value": "Hermannus de Scildis", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "HermannusDeScildis"
+      ],
   }
     

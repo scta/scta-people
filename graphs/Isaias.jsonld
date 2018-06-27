@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Isaiah", "@language": "en"},{"@value": "Isaias", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Isaias"
+      ],
   }
     

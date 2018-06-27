@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Peter of Palude", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "PetrusDePalude",
+  "sctap:shortId": "PetrusDePalude"
+      ],
   "owl:sameAs": [
           "http://en.wikipedia.org/wiki/Peter_Paludanus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q2081053.json"

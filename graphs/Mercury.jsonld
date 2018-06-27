@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Mercury", "@language": "en"},{"@value": "Mercurius", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Mercury"
+      ],
   }
     

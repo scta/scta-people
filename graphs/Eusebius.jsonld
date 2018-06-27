@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Eusebius of Caesarea", "@language": "en"},{"@value": "Eusebius Pamphili", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "Eusebius"
+      ],
   }
     

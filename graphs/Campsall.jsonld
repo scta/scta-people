@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Richard Campsall", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Campsall",
+  "sctap:shortId": "Campsall"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Richard_of_Campsall",
           "https://www.wikidata.org/wiki/Special:EntityData/Q7330231.json"

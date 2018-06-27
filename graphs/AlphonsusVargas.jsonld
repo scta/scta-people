@@ -4,6 +4,9 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Alphonso Vargas of Toledo", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AlphonsusVargas","sctap:order":  "Augustinian"
+  "sctap:shortId": "AlphonsusVargas",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   }
     

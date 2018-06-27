@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Albert the Great", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Albert","sctap:order":  "Dominican",
+  "sctap:shortId": "Albert",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Dominican"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Albertus_Magnus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q60059.json"

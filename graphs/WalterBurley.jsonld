@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Walter Burley", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "WalterBurley",
+  "sctap:shortId": "WalterBurley"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Walter_Burley",
           "https://www.wikidata.org/wiki/Special:EntityData/Q1862572.json"

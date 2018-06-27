@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Vincent of Beauvais", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "VincentOfBeauvais","sctap:order":  "Dominican",
+  "sctap:shortId": "VincentOfBeauvais",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Dominican"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Vincent_of_Beauvais",
           "https://www.wikidata.org/wiki/Special:EntityData/Q455162.json"

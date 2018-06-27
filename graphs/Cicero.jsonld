@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Marcus Tulius Cicero", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Cicero"
+      ],
   }
     

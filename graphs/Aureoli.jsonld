@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Peter Aureoli", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Aureoli","sctap:order":  "Franciscan",
+  "sctap:shortId": "Aureoli",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Petrus_Aureolus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q1383191.json"

@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Nestorius", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "Nestorius",
+  "sctap:shortId": "Nestorius"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Nestorius"
    ]

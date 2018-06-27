@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Francis of Marchia", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "FrancisOfMarchia","sctap:order":  "Franciscan",
+  "sctap:shortId": "FrancisOfMarchia",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q5482931.json"
    ]

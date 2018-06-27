@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Hiltalingen of Basel", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohnHiltalingenBasel","sctap:order":  "Augustinian",
+  "sctap:shortId": "JohnHiltalingenBasel",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Johann_Hiltalinger"
    ]

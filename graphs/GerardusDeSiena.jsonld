@@ -4,6 +4,9 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Gerard of Siena", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "GerardusDeSiena","sctap:order":  "Augustinian"
+  "sctap:shortId": "GerardusDeSiena",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   }
     

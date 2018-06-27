@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Richard of Kilvington", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RichardKilvington",
+  "sctap:shortId": "RichardKilvington"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Richard_Kilvington",
           "https://www.wikidata.org/wiki/Special:EntityData/Q468950.json"

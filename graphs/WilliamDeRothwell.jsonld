@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "William de Rothwell", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "WilliamDeRothwell"
+      ],
   }
     

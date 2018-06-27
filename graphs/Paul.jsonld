@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Paul, the Apostle", "@language": "en"},{"@value": "Paulus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Paul"
+      ],
   }
     

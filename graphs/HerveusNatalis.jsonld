@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Herveus Natalis", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "HerveusNatalis","sctap:order":  "Dominican",
+  "sctap:shortId": "HerveusNatalis",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Dominican"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Hervaeus_Natalis"
    ]

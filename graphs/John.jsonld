@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "John, the Apostle", "@language": "en"},{"@value": "Ioannes", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "John"
+      ],
   }
     

@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Apollo", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Apollo"
+      ],
   }
     

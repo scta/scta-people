@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Cyril of Alexandria", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "CyrilOfAlexandria",
+  "sctap:shortId": "CyrilOfAlexandria"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Cyril_of_Alexandria"
    ]

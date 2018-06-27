@@ -4,6 +4,9 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John of Ripa", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Ripa","sctap:order":  "Franciscan"
+  "sctap:shortId": "Ripa",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+      ],
   }
     

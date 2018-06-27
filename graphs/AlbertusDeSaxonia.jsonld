@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Albertus De Saxonia", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AlbertusDeSaxonia",
+  "sctap:shortId": "AlbertusDeSaxonia"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q61044.json"
    ]

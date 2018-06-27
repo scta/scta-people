@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Ambrose of Milan", "@language": "en"},{"@value": "Aurelius Ambrosius", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "Ambrose"
+      ],
   }
     

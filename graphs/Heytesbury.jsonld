@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "William Hetesbury", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Heytesbury",
+  "sctap:shortId": "Heytesbury"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/William_of_Heytesbury"
    ]

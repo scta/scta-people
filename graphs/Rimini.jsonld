@@ -4,7 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Gregory of Rimini", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Rimini","sctap:order":  "Augustinian",
+  "sctap:shortId": "Rimini",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Gregory_of_Rimini",
           "https://www.wikidata.org/wiki/Special:EntityData/Q540799.json"

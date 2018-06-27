@@ -5,5 +5,6 @@
   "dc:title": [{"@value": "Mary, Virgin", "@language": "en"},{"@value": "Maria", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Mary"
+      ],
   }
     

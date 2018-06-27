@@ -4,6 +4,9 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Hugolino of Orvieto", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "HugolinoOfOrvieto","sctap:order":  "Augustinian"
+  "sctap:shortId": "HugolinoOfOrvieto",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Augustinian"
+      ],
   }
     

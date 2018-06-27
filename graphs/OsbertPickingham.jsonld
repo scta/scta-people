@@ -5,6 +5,9 @@
   "dc:title": [{"@value": "Osbert Pickingham", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "OsbertPickingham",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Carmelite"
+      ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q19325038.json"
    ]

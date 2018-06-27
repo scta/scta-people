@@ -4,7 +4,8 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Hilary of Poitiers", "@language": "en"},{"@value": "Hilarius", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "HilaryOfPoitiers",
+  "sctap:shortId": "HilaryOfPoitiers"
+      ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Hilary_of_Poitiers"
    ]
