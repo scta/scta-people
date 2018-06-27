@@ -557,6 +557,7 @@
           <person xml:id="Augustine">
             <persName xml:lang="la">Augustinus</persName>
             <persName xml:lang="en">Augustine</persName>
+            <persName xml:lang="it">Agostino</persName>
           </person>
           <person xml:id="Dionysius">
             <persName xml:lang="en">Pseudo-Dionysius</persName>
