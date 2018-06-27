@@ -2,7 +2,7 @@
   "@context": "http://scta.info/api/core/1.0/people/context.json",
   "@id": "http://scta.info/resource/Wodeham",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Adam Wodeham", "@language": "en"}],
+  "dc:title": [{"@value": "Adam Wodeham", "@language": "en"}, {"@value": "Adam de Wodeham", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Wodeham",
   "sctap:hasAffiliation":  [
@@ -14,4 +14,3 @@
    ]
   
   }
-    
