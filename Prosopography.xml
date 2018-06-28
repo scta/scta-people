@@ -1243,6 +1243,11 @@
             <note type="order">Augustinian</note>
             <note type="wikidata-id"></note>
           </person>
+          <person xml:id="JohannesdeWasia">
+            <persName xml:lang="en">Johannes de Wasia</persName>
+            <note type="order">Secular</note>
+            <note type="wikidata-id"></note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
