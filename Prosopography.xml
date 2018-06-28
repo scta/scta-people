@@ -1238,6 +1238,11 @@
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q5482931</note>
           </person>
+          <person xml:id="DionysiusdeMontina">
+            <persName xml:lang="en">Dionysius de Montina</persName>
+            <note type="order">Augustinian</note>
+            <note type="wikidata-id"></note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
