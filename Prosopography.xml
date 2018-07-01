@@ -650,6 +650,7 @@
           </person>
           <person xml:id="PopeInnocentIII">
             <persName xml:lang="en">Pope Innocent III</persName>
+            <persName xml:lang="la">Papa Innocentius III</persName>
           </person>
           <person xml:id="PopeGregoryIV">
             <persName xml:lang="en">Pope Gregory IV</persName>
@@ -1236,6 +1237,16 @@
             <persName xml:lang="en">Francis of Marchia</persName>
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q5482931</note>
+          </person>
+          <person xml:id="DionysiusdeMontina">
+            <persName xml:lang="en">Dionysius de Montina</persName>
+            <note type="order">Augustinian</note>
+            <note type="wikidata-id"></note>
+          </person>
+          <person xml:id="JohannesdeWasia">
+            <persName xml:lang="en">Johannes de Wasia</persName>
+            <note type="order">Secular</note>
+            <note type="wikidata-id"></note>
           </person>
         </listPerson>
       </listPerson>
