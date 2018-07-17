@@ -1248,6 +1248,11 @@
             <note type="order">Secular</note>
             <note type="wikidata-id"></note>
           </person>
+          <person xml:id="FrancisofMeyronnes">
+            <persName xml:lang="en">Francis of Meyronnes</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id"></note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
