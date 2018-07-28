@@ -733,6 +733,7 @@
             <note type="rcs-url">/Users/jcwitt/Desktop/rcsfeeds/200009</note>
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q4680059</note>
+            <note type="biblid">P7EEKAK7</note>
           </person>
           <person xml:id="Ockham">
             <persName xml:lang="en">William of Ockham</persName>
@@ -1064,6 +1065,7 @@
           <person xml:id="PetrusGracilis">
             <persName xml:lang="en">Petrus Gracilis</persName>
             <note type="order">Augustinian</note>
+            <note type="biblid">GE4AB4QB</note>
           </person>
           <person xml:id="PeterJeanOlivi">
             <persName xml:lang="en">Peter Jean Olivi</persName>
