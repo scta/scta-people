@@ -1255,6 +1255,10 @@
             <note type="order">Franciscan</note>
             <note type="wikidata-id"></note>
           </person>
+          <person xml:id="RadulphusBrito">
+            <persName xml:lang="en">Radulphus Brito</persName>
+            <note type="wikidata-id">Q1222132</note>
+          </person>
         </listPerson>
       </listPerson>
     </body>
