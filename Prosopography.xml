@@ -1259,6 +1259,15 @@
             <persName xml:lang="en">Radulphus Brito</persName>
             <note type="wikidata-id">Q1222132</note>
           </person>
+          <person xml:id="WilliamOfAlnwick">
+            <persName xml:lang="en">William of Alnwick</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q8020857</note>
+            <!-- possible conflicting wikidata ids Q8004388 Q19036528 -->
+          </person>
+          <person xml:id="JamesOfAscoli">
+            <persName xml:lang="en">James Of Ascoli</persName>
+          </person>
         </listPerson>
       </listPerson>
     </body>
