@@ -1269,6 +1269,10 @@
             <persName xml:lang="en">James Of Ascoli</persName>
           </person>
         </listPerson>
+        <person xml:id="JeanLalemandet">
+          <persName xml:lang="en">Jean Lalemandet</persName>
+          <note type="wikidata-id">Q4253395</note>
+        </person>
       </listPerson>
     </body>
   </text>
