@@ -1280,6 +1280,43 @@
             <persName xml:lang="en">Praepositinus</persName>
             <note type="wikidata-id">Q7237544</note>
           </person>
+          <person xml:id="LeonardusPenafiel">
+            <persName xml:lang="en">Leonardus Penafiel</persName>
+            <note type="order">Jesuit</note>
+            <!-- 
+              https://es.wikipedia.org/wiki/Leonardo_de_Pe%C3%B1afiel
+              http://scholasticon.ish-lyon.cnrs.fr/Database/Scholastiques_fr.php?ID=980
+            Professor at the collegio Maximo de San Pablo de Lima
+            
+            works: 
+            Disputationes theologicas in primam partem divi Thomae, de deo uno,Lyon,1663-1666,2 vols.
+            Disputaciones scholasticae et morales de virtute fide divinae, deque infidelitate, haeresi et poenis haereticorum ,Lyon,1673.
+            Tractatus de incarnatione verbi divini ,Lyon,1678.
+            
+            Brother of Alfonso de Penafiel
+            -->
+          </person>
+          <person xml:id="AlfonsoPenafiel">
+            <persName xml:lang="en">Alfonso Penafiel</persName>
+            <note type="order">Jesuit</note>
+            <!-- 
+            https://es.wikipedia.org/wiki/Alonso_de_Pe%C3%B1afiel
+            http://scholasticon.ish-lyon.cnrs.fr/Database/Scholastiques_fr.php?ID=979
+            Professor at the collegio Maximo de San Pablo de Lima
+            
+            works: 
+            Cursus integri philosophici tomus primus : complectens Disputationes de summulis, de vniuersalibus, Lyon, Philippe Borde, Laurent Arnaud & Claude Rigaud, 1653 [Lyon BM 22591; Palma BP].
+            Cursus integri philosophici tomus secundus : complectens Disputationes XVI in libros Aristotelis de physico auditu, Lyon, Philippe Borde, Laurent Arnaud & Claude Rigaud, 1654 [Lyon BM 22591; Palma BP].
+            Cursus integri philosophici tomus tertius, Lyon, Philippe Borde, Laurent Arnaud & Claude Rigaud, 1655 [Lyon BM 22591; Palma BP].
+            
+            Brother of Leonardus de Penafiel
+            -->
+          </person>
+          <person xml:id="GodfreyOfFontaines">
+            <persName xml:lang="en">Godfrey of Fontaines</persName>
+            <note type="wikidata-id">Q332288</note>
+          </person>
+         
         </listPerson>
         
         
