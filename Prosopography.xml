@@ -1316,7 +1316,15 @@
             <persName xml:lang="en">Godfrey of Fontaines</persName>
             <note type="wikidata-id">Q332288</note>
           </person>
-         
+          <person xml:id="GilbertGenebrard">
+            <persName xml:lang="en">Gilbert Genebrard</persName>
+            <note type="wikidata-id">Q3105742</note>
+            <!-- mentioned by Lambertus Daneau, pdf p. 64, for a theory about Lombard copying an early version of the Sentences by Bandini -->
+          </person>
+          <person xml:id="Bandinus">
+            <persName xml:lang="en">Bandinus</persName>
+            <!-- wrote early, popular abbreviation of lombard -->
+          </person>
         </listPerson>
         
         
