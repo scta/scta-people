@@ -960,6 +960,7 @@
             <persName xml:lang="en">James of Viterbo</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Giacomo_da_Viterbo</note>
             <note type="wikidata-id">Q352625</note>
+            <note type="order">Augustinian</note>
           </person>
           <person xml:id="JohannesBrakel">
             <persName xml:lang="en">Johannes de Brake</persName>
