@@ -1326,6 +1326,10 @@
             <persName xml:lang="en">Bandinus</persName>
             <!-- wrote early, popular abbreviation of lombard -->
           </person>
+          <person xml:id="PhilipMelanchthon">
+            <persName xml:lang="en">Philip Melanchthon</persName>
+            <note type="wikidata-id">Q76325</note>
+          </person>
         </listPerson>
         
         
