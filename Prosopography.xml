@@ -1009,7 +1009,7 @@
             <persName xml:lang="en">Peter of Palude</persName>
             <note type="dbpedia-url">http://en.wikipedia.org/wiki/Peter_Paludanus</note>
             <note type="wikidata-id">Q2081053</note>
-            
+            <note type="order">Dominican</note>
           </person>
           <person xml:id="OsbertPickingham">
             <persName xml:lang="en">Osbert Pickingham</persName>
