@@ -1330,6 +1330,13 @@
             <persName xml:lang="en">Philip Melanchthon</persName>
             <note type="wikidata-id">Q76325</note>
           </person>
+          <person xml:id="AntoniusPerez">
+            <persName xml:lang="en">Antonoius Perez</persName>
+            <note type="order">Franciscan</note>
+            <!-- can't find any information about him 
+            discovered via google search https://books.google.com/books?id=3ktnAAAAcAAJ
+            -->
+          </person>
         </listPerson>
         
         
