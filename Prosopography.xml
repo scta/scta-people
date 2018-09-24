@@ -1337,6 +1337,11 @@
             discovered via google search https://books.google.com/books?id=3ktnAAAAcAAJ
             -->
           </person>
+          <person xml:id="BonifaceVIII">
+            <persName xml:lang="en">Boniface VIII</persName>
+            <note type="wikidata-id">Q134646</note>
+          </person>
+          
         </listPerson>
         
         
