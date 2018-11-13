@@ -1345,6 +1345,13 @@
             <persName xml:lang="en">Henningus Boltenhagen</persName>
             <!-- referred to by Stegmuller as Pultenhagen, also mentioned in article on vienna group in volume 3 of sentences commentary volume -->
           </person>
+          <person xml:id="MartinLuther">
+            <persName xml:lang="en">Martin Luther</persName>
+          </person>
+          <person xml:id="RichardFishacre">
+            <persName xml:lang="en">Richard Fishacre</persName>
+            <note type="order">Dominican</note>
+          </person>
           
         </listPerson>
         
