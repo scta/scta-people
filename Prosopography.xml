@@ -423,7 +423,7 @@
             <!-- should we condense this with the entry below? -->
           </person>
           <person xml:id="Empedocles">
-            <persName xml:lang="en">Diogenes of Sinope</persName>
+            <persName xml:lang="en">Empedocles</persName>
           </person>
           <person xml:id="Josephus">
             <persName xml:lang="en">Josephus Flavius</persName>
@@ -933,7 +933,7 @@
           </person>
           <person xml:id="PeterOfSalliente">
             <persName xml:lang="en">Peter Of Salliente</persName>
-            <note>Socius -- see principium II for named reference -- probably refers to all
+            <note>Socius of Plaoul-- see principium II for named reference -- probably refers to all
               references to bachaelor reading from Navarre. See Sullivan - list of people receiving
               degree in 1397</note>
           </person>
@@ -949,7 +949,6 @@
             <note type="dbpedia-url">http://dbpedia.org/resource/Alexander_of_Hales</note>
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q457968</note>
-            
           </person>
           <person xml:id="peter-plaoul">
             <persName xml:lang="en">Peter Plaoul</persName>
@@ -1352,6 +1351,225 @@
             <persName xml:lang="en">Richard Fishacre</persName>
             <note type="order">Dominican</note>
           </person>
+          
+          
+          <person xml:id="ClaudeFressen">
+            <persName xml:lang="en">Claude Fressen</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q5128843</note>
+            <!-- franciscan Scotist working; lived from 1620-1711 -->
+            <!-- https://en.wikipedia.org/wiki/Claude_Frassen -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="JohnPunch">
+            <persName xml:lang="en">JohnPunch</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q1698179</note>
+            <!-- irish franciscan Scotist working; lived from 1603-1661 -->
+            <!-- https://en.wikipedia.org/wiki/John_Punch_(theologian) -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="PedroDaFonseca">
+            <persName xml:lang="en">Pedro da Fonseca</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q1365381</note>
+            <!-- Portuguese Jesuit working; lived from 1528-1599 -->
+            <!-- https://en.wikipedia.org/wiki/John_Punch_(theologian) -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="PedroHurtadoDeMendoza">
+            <persName xml:lang="en">Pedro Hurtado de Mendoza</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q12265675</note>
+            
+            <!-- https://en.wikipedia.org/wiki/Pedro_Hurtado_de_Mendoza -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="RodrigoDeArriaga">
+            <persName xml:lang="en">Rodrigo de Arriaga</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q12049595</note>
+            <!-- https://en.wikipedia.org/wiki/Rodrigo_de_Arriaga -->
+            <!-- 1592-1667 
+            de Arriaga, Rodrigo (1669). Cursus philosophicus (in Latin). Lyon: Huguetan, Jean-Antoine (2.) ; Barbier, Guillaume (2.).
+            de Arriaga, Rodrigo (1643–55). Disputationes theologicae (in Latin). Anversa: Moretus.
+            -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="RobertBellarmine">
+            <persName xml:lang="en">Robert Bellarmine</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q298664</note>
+            <!-- https://en.wikipedia.org/wiki/Robert_Bellarmine -->
+            <!-- 1542-1621 -->
+            <!-- second scholastic -->
+          </person>
+          <person xml:id="FranciscoSuarez">
+            <persName xml:lang="en">Fracisco Suárez</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q316339</note>
+            <!-- https://en.wikipedia.org/wiki/Francisco_Su%C3%A1rez -->
+            <!-- 1548-1617 -->
+            <!-- second scholastic -->
+            <!--De Incarnatione (1590-1592)
+            De sacramentis (1593-1603)
+            Disputationes metaphysicae (1597)
+            De divina substantia eiusque attributis (1606)
+            De divina praedestinatione et reprobatione (1606)
+            De sanctissimo Trinitatis mysterio (1606)
+            De religione (1608-1625)
+            De legibus (1612)
+            Defensio fidei (1613)
+            De gratia (1619)
+            De angelis (1620)
+            De opere sex dierum (1621)
+            De anima (1621)
+            De fide, spe et charitate (1622)
+            De ultimo fine hominis (1628)-->
+          </person>
+          <person xml:id="LuisDeMolina">
+            <persName xml:lang="en">LuisDeMolina</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q436077</note>
+            <!-- https://en.wikipedia.org/wiki/Luis_de_Molina -->
+            <!-- 1535-1600 -->
+            <!-- second scholastic -->
+            <!---->
+          </person>
+          <person xml:id="GabrielVasquez">
+            <persName xml:lang="en">Grabriel Vásquez</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q352513</note>
+            <!-- https://en.wikipedia.org/wiki/Gabriel_V%C3%A1squez -->
+            <!-- 1549-1551 -->
+            <!-- second scholastic -->
+            <!---->
+          </person>
+          <person xml:id="ThomasCajetan">
+            <persName xml:lang="en">Thomas Cajetan</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q435853</note>
+            <!-- https://en.wikipedia.org/wiki/Thomas_Cajetan -->
+            <!-- 1469-1534 -->
+            <!-- second scholastic -->
+            <!--
+            Opera omnia (5 vol, 1639)
+            Opuscula omnia (1530)
+            Commentary on Saint Thomas' Summa theologiae (1540)
+            De divina institutione Pontificatus Romani Pontificis (1521)
+            In Porphyrii Isagogen (1934)
+            De comparatione auctoritatis papae and Apologia (1936)
+            De Anima (1938)
+            Scripta philosophica (6 vols., edited by P. Zammit, M.-H. Laurent and J. Coquelle, 1934–39)
+            -->
+          </person>
+          <person xml:id="DomingoDeSoto">
+            <persName xml:lang="en">Domingo de Soto</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q1237514</note>
+            <!-- https://en.wikipedia.org/wiki/Domingo_de_Soto -->
+            <!-- 1494-1560 -->
+            <!-- second scholastic -->
+            <!--
+            Summulae, 1529. (A manual of logic.)
+            De ratione tegendi et detegendi secretum, 1541
+            In dialecticam Aristotelis commentarii, 1544
+            In VIII libros physicorum, 1545 (An influential commentary on Aristotle's Physics.)
+            Deliberacion en la causa de los pobres, 1545
+            De natura et gratia libri III, 1547 (A treatise on original sin and grace, written from a Thomistic point of view.)
+            Comment. in Ep. ad Romanos, 1550
+            In IV sent. libros comment. 1555-6. (https://books.google.com/books?id=3gZnya-902YC&printsec=frontcover#v=onepage&q&f=false)
+            De justitia et jure libri X, 1556 (A treatise on law.)
+            -->
+          </person>
+          <person xml:id="DomingoBanez">
+            <persName xml:lang="en">Domingo Báñez</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q934185</note>
+            <!-- https://en.wikipedia.org/wiki/Domingo_B%C3%A1%C3%B1ez -->
+            <!-- 1528-1604 -->
+            <!-- second scholastic -->
+            <!-- -->
+          </person>
+          <person xml:id="JohnOfStThomas">
+            <persName xml:lang="en">John of St. Thomas</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q3735496</note>
+            <!-- https://en.wikipedia.org/wiki/John_of_St._Thomas -->
+            <!-- born in Lisbon 1589-1644 -->
+            <!-- second scholastic -->
+            <!-- -->
+          </person>
+          <person xml:id="PedroDeGodoy">
+            <persName xml:lang="en">Pedro de Godoy</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q6070485</note>
+            <!-- https://en.wikipedia.org/wiki/John_of_St._Thomas -->
+            <!-- born in Lisbon 1608-1677 -->
+            <!-- second scholastic -->
+            <!-- worked at Salamanca 
+            mentioned by Perez
+            
+            Disputationes theologicae Divi Thomae (Osma, 1666-71)
+            -->
+          </person>
+          <person xml:id="MiguelDePalacio">
+            <persName xml:lang="en">Miguel de Palacio</persName>
+            <!-- 1525-1593 -->
+            <!-- prof at salamanca -->
+            <!-- http://www.prdl.org/author_view.php?a_id=2532 -->
+            <!-- second scholastic -->
+            <!-- 
+            has sent commentary (around 1570s) 
+            see http://www.prdl.org/adv_search.php?q1=&q1cat=any&q2op=and&q2=&q2cat=title&q3op=and&q3=&q3cat=author&q4op=and&q4=&q4cat=place&q5op=and&q5=&q5cat=p_name&q6op=and&q6=&q6cat=ser_title&q7op=and&qfr=&qto=&q8op=and&qfr_add=&qto_add=&q9op=and&q_src_type=Theology&q10op=and&q_tradition=Roman+Catholic&q11op=and&q_topic=&q12op=and&q_genre=Sentence+Commentary&q13op=and&q_lang=&q14op=and&q_bib=&sort=author&s=0&limit=20&Submit=Search
+            -->
+          </person>
+          <person xml:id="JeronimoPerez">
+            <persName xml:lang="en">Jeronimo Perez</persName>
+            <!-- order O. Merc ?? -->
+            <!-- has Sent commentary around 1548  https://books.google.com/books?id=ryCMPVq4S48C& -->
+            <!--see http://www.prdl.org/adv_search.php?q1=&q1cat=any&q2op=and&q2=&q2cat=title&q3op=and&q3=&q3cat=author&q4op=and&q4=&q4cat=place&q5op=and&q5=&q5cat=p_name&q6op=and&q6=&q6cat=ser_title&q7op=and&qfr=&qto=&q8op=and&qfr_add=&qto_add=&q9op=and&q_src_type=Theology&q10op=and&q_tradition=Roman+Catholic&q11op=and&q_topic=&q12op=and&q_genre=Sentence+Commentary&q13op=and&q_lang=&q14op=and&q_bib=&sort=author&s=0&limit=20&Submit=Search-->
+          </person>
+          <person xml:id="PetrusPosnaniensis">
+            <persName xml:lang="en">Petrus Posnaniensis</persName>
+            <note type="order">Franciscan</note>
+            <!--http://www.prdl.org/author_view.php?a_id=857-->
+            <!-- died 1658 ?? -->
+            <!-- has Sent commentary around 1612  https://books.google.com/books?id=ujhBAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false -->
+            <!--see http://www.prdl.org/adv_search.php?q1=&q1cat=any&q2op=and&q2=&q2cat=title&q3op=and&q3=&q3cat=author&q4op=and&q4=&q4cat=place&q5op=and&q5=&q5cat=p_name&q6op=and&q6=&q6cat=ser_title&q7op=and&qfr=&qto=&q8op=and&qfr_add=&qto_add=&q9op=and&q_src_type=Theology&q10op=and&q_tradition=Roman+Catholic&q11op=and&q_topic=&q12op=and&q_genre=Sentence+Commentary&q13op=and&q_lang=&q14op=and&q_bib=&sort=author&s=0&limit=20&Submit=Search-->
+          </person>
+          <person xml:id="JuanDeRada">
+            <persName xml:lang="en">Juan de Rada</persName>
+            <note type="order">Franciscan</note>
+            <!--http://www.prdl.org/author_view.php?a_id=860-->
+            <!-- died 1545-1608 -->
+            <!-- has Sent commentary in 4 volumes around 1620; possibily earlier publication 1599? 
+            https://books.google.com/books?id=Ix-lbpWIO0wC&printsec=frontcover#v=onepage&q&f=false
+            https://books.google.com/books?id=bHewezDjSSwC&printsec=frontcover#v=onepage&q&f=false
+            https://books.google.com/books?id=rquzuTFTsa8C&printsec=frontcover#v=onepage&q&f=false
+            https://books.google.com/books?id=Z9N6zU1uPL8C&printsec=frontcover#v=onepage&q&f=false
+            -->
+            <!--see http://www.prdl.org/adv_search.php?q1=&q1cat=any&q2op=and&q2=&q2cat=title&q3op=and&q3=&q3cat=author&q4op=and&q4=&q4cat=place&q5op=and&q5=&q5cat=p_name&q6op=and&q6=&q6cat=ser_title&q7op=and&qfr=&qto=&q8op=and&qfr_add=&qto_add=&q9op=and&q_src_type=Theology&q10op=and&q_tradition=Roman+Catholic&q11op=and&q_topic=&q12op=and&q_genre=Sentence+Commentary&q13op=and&q_lang=&q14op=and&q_bib=&sort=author&s=0&limit=20&Submit=Search-->
+          </person>
+          <person xml:id="WilliamofRubio">
+            <persName xml:lang="en">William of Rubio</persName>
+            <note type="order">Franciscan</note>
+            <!-- prdl says fl. 1333 http://www.prdl.org/author_view.php?a_id=4837 -->
+            <!--In Sententias, ed. Badius Paris 1518, vol. I/II. -->
+            <!-- vol. 1 https://books.google.com/books?id=bCpJAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false -->
+            <!-- vol. 2 https://books.google.com/books?id=mypJAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false -->
+          </person>
+          <person xml:id="MichaelOfMassa">
+            <persName xml:lang="en">Michael of Massa</persName>
+            <note type="order">Augustinian</note>
+            <note type="wikidata-id">Q6835563</note>
+            <!-- https://en.wikipedia.org/wiki/Michael_of_Massa -->
+            
+          </person>
+          
+          
+
+          
           
         </listPerson>
         
