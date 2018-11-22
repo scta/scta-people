@@ -7,7 +7,7 @@
   "sctap:shortId": "Ockham",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/William_of_Ockham",
           "https://www.wikidata.org/wiki/Special:EntityData/Q43936.json"

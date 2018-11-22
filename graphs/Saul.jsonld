@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Saul, King", "@language": "en"},{"@value": "Saul", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Saul"
-      ],
   }
     

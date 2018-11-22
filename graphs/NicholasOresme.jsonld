@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Nicholas Oresme", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "NicholasOresme"
-      ],
+  "sctap:shortId": "NicholasOresme",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Nicole_Oresme",
           "https://www.wikidata.org/wiki/Special:EntityData/Q310777.json"

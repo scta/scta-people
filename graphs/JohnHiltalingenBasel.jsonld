@@ -7,7 +7,7 @@
   "sctap:shortId": "JohnHiltalingenBasel",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Augustinian"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Johann_Hiltalinger"
    ]

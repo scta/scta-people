@@ -7,7 +7,7 @@
   "sctap:shortId": "Durandus",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Durandus_of_Saint-Pourçain",
           "https://www.wikidata.org/wiki/Special:EntityData/Q1266754.json"

@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Petrus de Tarantasia", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "PetrusDeTarantasia"
-      ],
+  "sctap:shortId": "PetrusDeTarantasia",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Peter_of_Tarentaise",
           "https://www.wikidata.org/wiki/Special:EntityData/Q170871.json"

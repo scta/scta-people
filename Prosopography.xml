@@ -1566,6 +1566,13 @@
             <!-- https://en.wikipedia.org/wiki/Michael_of_Massa -->
             
           </person>
+          <person xml:id="RobertKilwardby">
+            <persName xml:lang="en">Robert Kilwardby</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q1364372</note>
+            <!-- https://en.wikipedia.org/wiki/Robert_Kilwardby -->
+            
+          </person>
           
           
 

@@ -1,0 +1,9 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/HenningusBoltenhagen",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Henningus Boltenhagen", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "HenningusBoltenhagen"
+  }
+    

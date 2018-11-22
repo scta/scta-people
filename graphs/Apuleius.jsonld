@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Lucius Apuleius Madaurensis", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
-  "sctap:shortId": "Apuleius"
-      ],
+  "sctap:shortId": "Apuleius",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q170512.json"
    ]

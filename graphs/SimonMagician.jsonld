@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Simon the Magician", "@language": "en"},{"@value": "Simon Magus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "SimonMagician"
-      ],
   }
     

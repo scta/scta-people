@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Michael the Archangel", "@language": "en"},{"@value": "Michahel Archangelus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "MichaelArchangel"
-      ],
   }
     

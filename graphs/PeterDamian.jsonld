@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Peter Damian", "@language": "en"},{"@value": "Petrus Damiani", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "PeterDamian"
-      ],
   }
     

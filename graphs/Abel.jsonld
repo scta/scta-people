@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Abel", "@language": "en"},{"@value": "Abel", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Abel"
-      ],
   }
     

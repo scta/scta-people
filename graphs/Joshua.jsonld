@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Joshua", "@language": "en"},{"@value": "Josue", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Joshua"
-      ],
   }
     

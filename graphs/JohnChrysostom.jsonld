@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "John Chrysostom", "@language": "en"},{"@value": "Johannes Chrysostomos", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "JohnChrysostom"
-      ],
   }
     

@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Dominicus Gundissalinus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "DominicusGundissalinus"
-      ],
+  "sctap:shortId": "DominicusGundissalinus",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q1237726.json",
           "http://dbpedia.org/resource/Dominicus_Gundissalinus"

@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Jan Hus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JanHus"
-      ],
+  "sctap:shortId": "JanHus",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Jan_Hus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q43977.json"

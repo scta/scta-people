@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Isidore of Seville", "@language": "en"},{"@value": "Isidorus Hispalensis", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "IsidoreOfSeville"
-      ],
   }
     

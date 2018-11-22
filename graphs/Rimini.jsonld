@@ -7,7 +7,7 @@
   "sctap:shortId": "Rimini",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Augustinian"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Gregory_of_Rimini",
           "https://www.wikidata.org/wiki/Special:EntityData/Q540799.json"

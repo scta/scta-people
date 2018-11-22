@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Achilles", "@language": "en"},{"@value": "Achilleus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Achilles"
-      ],
   }
     

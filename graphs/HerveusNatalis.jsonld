@@ -7,7 +7,7 @@
   "sctap:shortId": "HerveusNatalis",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Hervaeus_Natalis"
    ]

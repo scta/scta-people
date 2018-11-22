@@ -7,7 +7,7 @@
   "sctap:shortId": "Scotus",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Duns_Scotus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q190089.json"

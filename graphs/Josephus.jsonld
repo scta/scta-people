@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Josephus Flavius", "@language": "en"},{"@value": "Titus Flavius Josephus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Josephus"
-      ],
   }
     

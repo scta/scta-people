@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Bede", "@language": "en"},{"@value": "Beda Venerabilis", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "Bede"
-      ],
   }
     

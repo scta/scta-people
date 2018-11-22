@@ -7,7 +7,7 @@
   "sctap:shortId": "Albert",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Albertus_Magnus",
           "https://www.wikidata.org/wiki/Special:EntityData/Q60059.json"

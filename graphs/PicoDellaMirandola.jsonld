@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Pico Della Mirandola", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "PicoDellaMirandola"
-      ],
+  "sctap:shortId": "PicoDellaMirandola",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q182128.json"
    ]

@@ -21,8 +21,9 @@
   "sctap:shortId": "<xsl:value-of select="$id"/>"<xsl:if test="$order">,</xsl:if>
   <xsl:if test="$order">
   "sctap:hasAffiliation":  [
-    "http://scta.info/resource/<xsl:value-of select="$order"/>"</xsl:if>
-      ],<xsl:if test="$sameas">
+    "http://scta.info/resource/<xsl:value-of select="$order"/>"
+    ]</xsl:if><xsl:if test="$sameas">,</xsl:if>
+      <xsl:if test="$sameas">
   "owl:sameAs": [<xsl:for-each select="$sameas">
       <xsl:choose>
         <xsl:when test="@type eq 'wikidata-id'">

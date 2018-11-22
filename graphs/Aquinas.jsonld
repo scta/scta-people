@@ -7,10 +7,11 @@
   "sctap:shortId": "Aquinas",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Thomas_Aquinas",
           "https://www.wikidata.org/wiki/Special:EntityData/Q9438.json"
    ]
-
+  
   }
+    

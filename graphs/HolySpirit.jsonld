@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Holy Spirit", "@language": "en"},{"@value": "Spiritus Sancti", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/divine",
   "sctap:shortId": "HolySpirit"
-      ],
   }
     

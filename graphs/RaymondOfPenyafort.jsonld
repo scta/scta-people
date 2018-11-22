@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Raymond Of Penyafort", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RaymondOfPenyafort"
-      ],
+  "sctap:shortId": "RaymondOfPenyafort",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q318980.json"
    ]

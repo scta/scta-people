@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "William of Paris", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "WilliamOfParis"
-      ],
+  "sctap:shortId": "WilliamOfParis",
   "owl:sameAs": [
           "http://dbpedia.org/resource/William_of_Auvergne_(bishop)",
           "https://www.wikidata.org/wiki/Special:EntityData/Q1347826.json"

@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Cassiodorus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "Cassiodorus"
-      ],
+  "sctap:shortId": "Cassiodorus",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Cassiodorus"
    ]

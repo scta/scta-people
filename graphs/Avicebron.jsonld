@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Avicebron", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/arabic",
-  "sctap:shortId": "Avicebron"
-      ],
+  "sctap:shortId": "Avicebron",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Solomon_ibn_Gabirol"
    ]

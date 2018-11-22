@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Jean Gerson", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JeanGerson"
-      ],
+  "sctap:shortId": "JeanGerson",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Jean_Gerson",
           "https://www.wikidata.org/wiki/Special:EntityData/Q281179.json"

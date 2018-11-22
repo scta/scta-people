@@ -7,7 +7,7 @@
   "sctap:shortId": "Holcot",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Robert_Holcot",
           "https://www.wikidata.org/wiki/Special:EntityData/Q7345564.json"

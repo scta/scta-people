@@ -7,7 +7,7 @@
   "sctap:shortId": "RogerBacon",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Roger_Bacon",
           "https://www.wikidata.org/wiki/Special:EntityData/Q171677.json"

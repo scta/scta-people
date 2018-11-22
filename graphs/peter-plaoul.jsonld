@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Peter Plaoul", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "peter-plaoul"
-      ],
+  "sctap:shortId": "peter-plaoul",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Peter_Plaoul",
           "https://www.wikidata.org/wiki/Special:EntityData/Q7176408.json"

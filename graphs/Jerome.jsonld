@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Jerome", "@language": "en"},{"@value": "Eusebius Sophronius Hieronymus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "Jerome"
-      ],
   }
     

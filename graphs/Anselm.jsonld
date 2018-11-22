@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Anselm", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Anselm"
-      ],
+  "sctap:shortId": "Anselm",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Anselm_of_Canterbury",
           "https://www.wikidata.org/wiki/Special:EntityData/Q43939.json"

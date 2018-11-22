@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Gratian", "@language": "en"},{"@value": "Flavius Gratianus Augustus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "Gratian"
-      ],
   }
     

@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Marsilius Of Padua", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "MarsiliusOfPadua"
-      ],
+  "sctap:shortId": "MarsiliusOfPadua",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Marsilius_of_Padua",
           "https://www.wikidata.org/wiki/Special:EntityData/Q315357.json"

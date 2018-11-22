@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "David, King", "@language": "en"},{"@value": "David", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "David"
-      ],
   }
     

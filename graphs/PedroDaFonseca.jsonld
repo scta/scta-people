@@ -1,0 +1,16 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/PedroDaFonseca",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Pedro da Fonseca", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "PedroDaFonseca",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Jesuit"
+    ],
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1365381.json"
+   ]
+  
+  }
+    

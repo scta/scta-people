@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Lot", "@language": "en"},{"@value": "Loth", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Lot"
-      ],
   }
     

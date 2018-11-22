@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Daniel", "@language": "en"},{"@value": "Daniel", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Daniel"
-      ],
   }
     

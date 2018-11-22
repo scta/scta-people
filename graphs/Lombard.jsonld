@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Peter Lombard", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "Lombard"
-      ],
+  "sctap:shortId": "Lombard",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q315347.json"
    ]

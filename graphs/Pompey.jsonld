@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Pompey the Great", "@language": "en"},{"@value": "Pompeius Magnus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Pompey"
-      ],
   }
     

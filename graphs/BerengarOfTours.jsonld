@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Berengar of Tours", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "BerengarOfTours"
-      ],
+  "sctap:shortId": "BerengarOfTours",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q435006.json",
           "http://dbpedia.org/resource/Berengar_of_Tours"

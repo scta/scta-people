@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Gabriel Biel", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "GabrielBiel"
-      ],
+  "sctap:shortId": "GabrielBiel",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q61369.json"
    ]

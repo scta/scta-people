@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Galen", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
-  "sctap:shortId": "Galen"
-      ],
+  "sctap:shortId": "Galen",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Galen",
           "https://www.wikidata.org/wiki/Special:EntityData/Q8778.json"

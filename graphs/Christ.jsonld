@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Jesus Christ", "@language": "en"},{"@value": "Jesus Christus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/divine",
   "sctap:shortId": "Christ"
-      ],
   }
     

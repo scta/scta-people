@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Eve", "@language": "en"},{"@value": "Eva", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Eva"
-      ],
   }
     

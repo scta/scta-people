@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Eunomius of Cyzicus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "EunomiusOfCyzicus"
-      ],
+  "sctap:shortId": "EunomiusOfCyzicus",
   "owl:sameAs": [
           "http://dbpedia.org/resource/Eunomius_of_Cyzicus"
    ]

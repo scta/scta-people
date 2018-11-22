@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Jupiter, Jove", "@language": "en"},{"@value": "Juppiter", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
   "sctap:shortId": "Jupiter"
-      ],
   }
     

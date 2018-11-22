@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Solomon", "@language": "en"},{"@value": "Salomon", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Solomon"
-      ],
   }
     

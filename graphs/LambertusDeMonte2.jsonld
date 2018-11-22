@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Lambertus de Monte", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "LambertusDeMonte2"
-      ],
+  "sctap:shortId": "LambertusDeMonte2",
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q3825797.json"
    ]

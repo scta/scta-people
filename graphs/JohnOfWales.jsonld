@@ -7,7 +7,7 @@
   "sctap:shortId": "JohnOfWales",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
-      ],
+    ],
   "owl:sameAs": [
           "https://www.wikidata.org/wiki/Special:EntityData/Q981494.json",
           "http://dbpedia.org/resource/John_of_Wales"

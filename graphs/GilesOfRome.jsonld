@@ -7,7 +7,7 @@
   "sctap:shortId": "GilesOfRome",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Augustinian"
-      ],
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Giles_of_Rome",
           "https://www.wikidata.org/wiki/Special:EntityData/Q380647.json"

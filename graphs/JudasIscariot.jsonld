@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Judas Iscariot", "@language": "en"},{"@value": "Juda Scarioth", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "JudasIscariot"
-      ],
   }
     

@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Peter, the Apostle", "@language": "en"},{"@value": "Petrus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Peter"
-      ],
   }
     

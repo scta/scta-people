@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "Adam", "@language": "en"},{"@value": "Adam", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/biblical",
   "sctap:shortId": "Adam"
-      ],
   }
     

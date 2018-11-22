@@ -5,6 +5,5 @@
   "dc:title": [{"@value": "John the Damascene", "@language": "en"},{"@value": "Johannes Damascenus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
   "sctap:shortId": "JohnDamascenus"
-      ],
   }
     

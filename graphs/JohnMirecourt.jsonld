@@ -4,8 +4,7 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John Mirecourt", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohnMirecourt"
-      ],
+  "sctap:shortId": "JohnMirecourt",
   "owl:sameAs": [
           "http://dbpedia.org/resource/John_of_Mirecourt",
           "https://www.wikidata.org/wiki/Special:EntityData/Q371962.json"
