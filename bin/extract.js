@@ -118,8 +118,9 @@ function writeTofile(file, newjson){
 }
 
 function writeXMLfile(newjson){
-  const date = newjson.dateofbirth.substring(1, 5)
+  const birthDate = newjson.dateofbirth.substring(1, 5)
+  const deathDate = newjson.dateofdeath.substring(1, 5)
   var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'});
-  stream.write("<person>\n<shortId>" + newjson["sctap:shortId"] + "</shortId>\n<dateofbirth>" + date + "</dateofbirth>\n<dateofdeath>" + date + "</dateofdeath>\n</person>\n");
+  stream.write("<person>\n<shortId>" + newjson["sctap:shortId"] + "</shortId>\n<dateofbirth>" + birthDate + "</dateofbirth>\n<dateofdeath>" + deathDate + "</dateofdeath>\n</person>\n");
   stream.end();
 }
