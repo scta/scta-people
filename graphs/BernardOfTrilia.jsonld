@@ -1,0 +1,16 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/BernardOfTrilia",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Bernard of Trilia", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "BernardOfTrilia",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Dominican"
+    ],
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q4893800.json"
+   ]
+  
+  }
+    

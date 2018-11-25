@@ -1253,7 +1253,8 @@
           <person xml:id="FrancisofMeyronnes">
             <persName xml:lang="en">Francis of Meyronnes</persName>
             <note type="order">Franciscan</note>
-            <note type="wikidata-id"></note>
+            <note type="wikidata-id">Q1995114</note>
+            <!-- https://en.wikipedia.org/wiki/Francis_of_Mayrone -->
           </person>
           <person xml:id="RadulphusBrito">
             <persName xml:lang="en">Radulphus Brito</persName>
@@ -1571,8 +1572,154 @@
             <note type="order">Dominican</note>
             <note type="wikidata-id">Q1364372</note>
             <!-- https://en.wikipedia.org/wiki/Robert_Kilwardby -->
-            
           </person>
+          <person xml:id="AdamOfBuckfield">
+            <persName xml:lang="en">Adam of Buckfield</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q2824030</note>
+            <!-- https://en.wikipedia.org/wiki/Adam_of_Bockenfield -->
+            <!-- english franciscan at oxford -->
+          </person>
+          <person xml:id="AndrewOfCornwall">
+            <persName xml:lang="en">Andrew of Cornwall</persName>
+            <note type="wikidata-id">Q4759029</note>
+            <!-- https://en.wikipedia.org/wiki/Andrew_of_Cornwall -->
+            <!-- english at oxford -->
+          </person>
+          <person xml:id="AndreOfNeufchateau">
+            <persName xml:lang="en">André of Neufchâteau</persName>
+            <note type="wikidata-id">Q4760109</note>
+            <note type="order">Franciscan</note>
+            <!-- https://en.wikipedia.org/wiki/Andr%C3%A9_of_Neufch%C3%A2teau -->
+            <!-- His Sentences commentary was printed in Paris in 1514 ( William J. Courtenay (1978), Adam Wodeham: An Introduction to His Life and Writings,p. 139.) -->
+          </person>
+          <person xml:id="BartholomeusAnglicus">
+            <persName xml:lang="en">Bartholomeus Anglicus</persName>
+            <note type="wikidata-id">Q809312</note>
+            <note type="order">Franciscan</note>
+            <!-- https://en.wikipedia.org/wiki/Bartholomeus_Anglicus -->
+          </person>
+          <person xml:id="BartholomewOfBologna">
+            <persName xml:lang="en">Bartholomew of Bologna</persName>
+            <note type="wikidata-id">Q4865301</note>
+            <note type="order">Franciscan</note>
+            <!-- https://en.wikipedia.org/wiki/Bartholomew_of_Bologna_(philosopher) -->
+          </person>
+          <person xml:id="BartholomewOfBruges">
+            <persName xml:lang="en">Bartholomew of Bruges</persName>
+            <note type="wikidata-id">Q4865212</note>
+            <note type="order">Franciscan</note>
+            <!-- https://en.wikipedia.org/wiki/Bartholomaeus_of_Bruges -->
+          </person>
+          <person xml:id="BernardOfTrilia">
+            <persName xml:lang="en">Bernard of Trilia</persName>
+            <note type="wikidata-id">Q4893800</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Bernard_of_Trilia -->
+          </person>
+          <person xml:id="BertholdOfMoosburg">
+            <persName xml:lang="en">Berthold of Moosburg</persName>
+            <note type="wikidata-id">Q828132</note>
+            <note type="order">Dominican</note>
+            <!-- German dominican -->
+            <!-- https://en.wikipedia.org/wiki/Berthold_of_Moosburg -->
+          </person>
+          <person xml:id="BlasiusOfParma">
+            <persName xml:lang="en">Blasius of Parma</persName>
+            <note type="wikidata-id">Q828132</note>
+            <!-- Italian philosopher; has commentary on logic of peter of spain -->
+            <!-- https://en.wikipedia.org/wiki/Blasius_of_Parma -->
+          </person>
+          <person xml:id="BoethiusOfDacia">
+            <persName xml:lang="en">Boethius of Dacia</persName>
+            <note type="wikidata-id">Q428694</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Boetius_of_Dacia -->
+          </person>
+          <person xml:id="DavidOfDinant">
+            <persName xml:lang="en">David of Dinant</persName>
+            <note type="wikidata-id">Q1244262</note>
+            <!-- https://en.wikipedia.org/wiki/David_of_Dinant -->
+          </person>
+          <person xml:id="DenysTheCarthusian">
+            <persName xml:lang="en">DenysTheCarthusian</persName>
+            <note type="wikidata-id">Q690346</note>
+            <!-- https://en.wikipedia.org/wiki/Denis_the_Carthusian -->
+            <!-- has sentences commentary; 42 volume opera omnia 1896-1935-->
+          </person>
+          <person xml:id="DietrichOfFreiberg">
+            <persName xml:lang="en">DietrichOfFreiberg</persName>
+            <note type="wikidata-id">Q1224163</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Theodoric_of_Freiberg -->
+          </person>
+          <person xml:id="EckhartOfHochheim">
+            <persName xml:lang="en">Eckhart of Hochheim</persName>
+            <note type="wikidata-id">Q76548</note>
+            <note type="order">Dominican</note>
+            <!-- aka meister eckhart -->
+            <!-- https://en.wikipedia.org/wiki/Meister_Eckhart -->
+          </person>
+          <person xml:id="GerardOfAbbeville">
+            <persName xml:lang="en">GerardOfAbbeville</persName>
+            <note type="wikidata-id">Q3124396</note>
+            <!-- https://en.wikipedia.org/wiki/Gerard_of_Abbeville -->
+          </person>
+          <person xml:id="GerardOfBologna">
+            <persName xml:lang="en">Gerard of Bologna</persName>
+            <note type="order">Carmelite</note>
+            <note type="wikidata-id">Q5550211</note>
+            <!-- https://en.wikipedia.org/wiki/Gerard_of_Bologna -->
+          </person>
+          <person xml:id="GilesOfLessines">
+            <persName xml:lang="en">GilesOfLessines</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q3106582</note>
+            <!-- https://en.wikipedia.org/wiki/Giles_of_Lessines -->
+            <!-- Among the works authored by Giles are:
+              Commentarium in libros I et II Sententiarum
+              De concordia temporum
+              De essentia, motu et significatione cometarum
+              De geometria
+              Epistula Alberto Magno missa
+              Summa de temporibus
+              De unitate formae
+              De usuris
+              Quaestiones theologicae
+              -->
+          </person>
+          <person xml:id="GonsalvoOfSpain">
+            <persName xml:lang="en">GonsalvoOfSpain</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q5582103</note>
+            <!-- https://en.wikipedia.org/wiki/Gonsalvus_of_Spain -->
+          </person>
+          <person xml:id="GuerricOfSaintQuentin">
+            <persName xml:lang="en">Guerric of Saint-Quentin</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q42887239</note>
+            <!-- https://en.wikipedia.org/wiki/Guerric_of_Saint-Quentin -->
+            <!-- has quodlibets -->
+          </person>
+          <person xml:id="GuidoTerrena">
+            <persName xml:lang="en">GuidoTerrena</persName>
+            <note type="order">Carmelite</note>
+            <note type="wikidata-id">Q5615634</note>
+            <!-- https://en.wikipedia.org/wiki/Guido_Terrena -->
+            <!-- teach of baconthorpe -->
+          </person>
+          <person xml:id="JohnBaconthorpe">
+            <persName xml:lang="en">John Baconthorpe</persName>
+            <note type="order">Carmelite</note>
+            <note type="wikidata-id">Q6220219</note>
+            <!-- https://en.wikipedia.org/wiki/John_Baconthorpe -->
+            <!-- has sentences commentary 1526 printing-->
+          </person>
+          
+          
+          
+          
+          
           
           
 

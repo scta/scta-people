@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/BlasiusOfParma",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Blasius of Parma", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "BlasiusOfParma",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q828132.json"
+   ]
+  
+  }
+    
