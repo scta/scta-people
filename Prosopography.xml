@@ -769,6 +769,22 @@
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q171677</note>
           </person>
+          <person xml:id="RobertBacon">
+            <persName xml:lang="en">Robert Bacon</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q7341782</note>
+            <!--https://en.wikipedia.org/wiki/Robert_Bacon_(writer)-->
+            <!-- supposedly uncle of Roger Bacon and first dominican regent master in theology at BlackFriars Oxford -->
+            <!-- Wikiepedia says John Bale (medieval cataloguer) suggests that he has written a sentences commentary
+              but I can't find the reference and Stegmuller has no entry for Robert Bacon 
+              But it would be significant if there was one, 
+              because this would be prior to Fishacre who is normally credited with the first Sentences commentary at Oxford 
+              But the entry for Robert Bacon in the 1902 version of the Bale catalogue does not mention a sentences commentary
+              See https://books.google.com/books?id=P3b8nPAfhcoC&pg=PA366#v=onepage&q&f=false
+            -->
+            
+              
+          </person>
           <person xml:id="WalterBurley">
             <persName xml:lang="en">Walter Burley</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Walter_Burley</note>
@@ -1351,6 +1367,7 @@
           <person xml:id="RichardFishacre">
             <persName xml:lang="en">Richard Fishacre</persName>
             <note type="order">Dominican</note>
+            <note type="wikidata-id">Q7325681</note>
           </person>
           
           
@@ -1714,6 +1731,153 @@
             <note type="wikidata-id">Q6220219</note>
             <!-- https://en.wikipedia.org/wiki/John_Baconthorpe -->
             <!-- has sentences commentary 1526 printing-->
+          </person>
+          <person xml:id="SimonOfHinton">
+            <persName xml:lang="en">Simon of Hinton</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q18672337</note>
+            <!-- https://en.wikipedia.org/wiki/John_Baconthorpe -->
+            <!-- enlish dominican with biblical commentaries-->
+          </person>
+          <person xml:id="JohnHalgrinOfAbbeville">
+            <persName xml:lang="en">John Halgrin Of Abbeville</persName>
+            <note type="wikidata-id">Q3129519</note>
+            <!-- Likely teacher of Robert Bacon; see Smalley "Robert Bacon and the Early Dominican School at Oxford" -->
+            <!--https://en.wikipedia.org/wiki/John_Halgren_of_Abbeville-->
+            
+          </person>
+          <person xml:id="HughRipelinOfStrasbourg">
+            <persName xml:lang="en">Hugh Ripelin of Strasbourg</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q1635599</note>
+            <!-- https://en.wikipedia.org/wiki/Hugh_Ripelin_of_Strasburg-->
+            <!-- author of  author of the Compendium theologiae or Compendium theologicae veritatis. -->
+          </person>
+          <person xml:id="WilliamOfAlton">
+            <persName xml:lang="en">WilliamOfAlton</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q8020746</note>
+            <!-- https://en.wikipedia.org/wiki/William_de_Alton-->
+          </person>
+          <person xml:id="ThomasOfSutton">
+            <persName xml:lang="en">ThomasOfSutton</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q3525718</note>
+            <!-- https://en.wikipedia.org/wiki/Thomas_of_Sutton-->
+          </person>
+          <person xml:id="WilliamOfHotham">
+            <persName xml:lang="en">William of Hotham</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q8012546</note>
+            <!-- https://en.wikipedia.org/wiki/William_Houghton_(bishop) -->
+            <!-- english dominican -->
+            <!-- wikikpedia says there is Sent Commentary, but RCS/Stegmuller has no entry 
+            Kappelli n. 1491 list Sentences commentary but not surviving witness
+            n. 1492 suggest surviving quodlibets in bnf 15805, f. 17-19 -->
+            <!-- http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13857 -->
+          </person>
+          <person xml:id="HenryOfFriemar">
+            <persName xml:lang="en">Henry of Friemar</persName>
+            <note type="wikidata-id">Q105359</note>
+            <note type="order">Augustinian</note>
+            <!-- works according to wikipedia 
+              Opus Sermonum Exactissimorum De Sanctis
+              De Quadruplici Instinctu, Divino, Angelico, Diabolico, et Humano (Venice, 1498; Parma, 1514) (Treatise on the Four Impulses)
+              Additiones Ad Libros Sententiarum (Cologne, 1513)
+              De Spiritibus, Eorumque Discretione
+              Tractatus De Beatae, Mariae Virginis Conceptione (Louvain, 1664)
+              De Origine Fratrum Eremitarum Sancti Augustini.
+              -->
+          </person>
+          <person xml:id="HenryHarclay">
+            <persName xml:lang="en">HenryHarclay</persName>
+            <note type="wikidata-id">Q5722572</note>
+          </person>
+          <person xml:id="HeymericDeCampo">
+            <persName xml:lang="en">Heymeric de Campo</persName>
+            <note type="wikidata-id">Q323906</note>
+            <!-- https://en.wikipedia.org/wiki/Heymeric_de_Campo -->
+          </person>
+          <person xml:id="HimbertOfGarda">
+            <persName xml:lang="en">Himbert of Garda</persName>
+            <note type="order">Franciscan</note>
+            <!-- he appears to have a sentences commentary -->
+          </person>
+          <person xml:id="HughOfStCher">
+            <persName xml:lang="en">Hugh of St. Cher</persName>
+            <note type="wikidata-id">Q1365254</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Hugh_of_Saint-Cher -->
+          </person>
+          <person xml:id="RichardKnapwell">
+            <persName xml:lang="en">Richard Knapwell</persName>
+            <!-- also referred to as "Clapwell" -->
+            <note type="wikidata-id">Q18526780</note>
+            <note type="order">Dominican</note>
+            <!-- surviving fragments of Sent Comment according to Stegmuller; 
+              Oxford, Magdalen College 56 f. 184–191: Richardus de Clapwell I d. 1–16. -->
+          </person>
+          <person xml:id="JamesOfLausanne">
+            <persName xml:lang="en">James of Lausanne</persName>
+            <note type="wikidata-id">Q19663889</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/James_of_Lausanne -->
+          </person>
+          <person xml:id="JamesOfMetz">
+            <persName xml:lang="en">James of Metz</persName>
+            <note type="wikidata-id">Q6146059</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/James_of_Metz -->
+          </person>
+          <person xml:id="JeromeOfMoravia">
+            <persName xml:lang="en">Jerome of Moravia</persName>
+            <note type="wikidata-id">Q821186</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Jerome_of_Moravia -->
+          </person>
+            
+          <person xml:id="RobertOfOrford">
+            <persName xml:lang="en">Robert of Orford</persName>
+            <note type="wikidata-id">Q7348154</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/Robert_Orford -->
+          </person>
+          <person xml:id="WilliamDeLaMare">
+            <persName xml:lang="en">William de la Mare</persName>
+            <note type="wikidata-id">Q718564</note>
+            <note type="order">Franciscan</note>
+            <!-- wrote important treatise critiquing Aquinas the Correctorium -->
+            <!-- https://en.wikipedia.org/wiki/William_de_la_Mare -->
+          </person>
+          <person xml:id="JohnBlund">
+            <persName xml:lang="en">John Blund</persName>
+            <note type="wikidata-id">Q6222286</note>
+            <!-- importnat for his works ont he soul; later archibishop of Canterbury -->
+            <!-- https://en.wikipedia.org/wiki/John_Blund -->
+          </person>
+          <person xml:id="JohnDumbleton">
+            <persName xml:lang="en">John Dumbleton</persName>
+            <note type="wikidata-id">Q967274</note>
+            <!-- importnat for his works ont he soul; later archibishop of Canterbury -->
+            <!-- https://en.wikipedia.org/wiki/John_Dumbleton -->
+          </person>
+          <person xml:id="JohnOfLaRochelle">
+            <persName xml:lang="en">John of la Rochelle</persName>
+            <note type="wikidata-id">Q6265864</note>
+            <note type="order">Franciscan</note>
+            <!-- https://en.wikipedia.org/wiki/John_of_la_Rochelle -->
+          </person>
+          <person xml:id="JohnPagus">
+            <persName xml:lang="en">John Pagus</persName>
+            <note type="wikidata-id">Q6251778</note>
+            <!-- logician -->
+            <!-- https://en.wikipedia.org/wiki/John_Pagus -->
+          </person>
+          <person xml:id="JohnOfParis">
+            <persName xml:lang="en">John of Paris</persName>
+            <note type="wikidata-id">Q717037</note>
+            <note type="order">Dominican</note>
+            <!-- https://en.wikipedia.org/wiki/John_of_Paris -->
           </person>
           
           
