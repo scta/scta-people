@@ -1077,6 +1077,7 @@
             <persName xml:lang="en">Petrus de Tarantasia</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Tarentaise</note>
             <note type="wikidata-id">Q170871</note>
+            <note type="order">Dominican</note>
           </person>
           <person xml:id="PetrusGracilis">
             <persName xml:lang="en">Petrus Gracilis</persName>
@@ -1085,11 +1086,13 @@
           </person>
           <person xml:id="PeterJeanOlivi">
             <persName xml:lang="en">Peter Jean Olivi</persName>
+            <note type="order">Franciscan</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_John_Olivi</note>
             <note type="wikidata-id">Q326307</note>
           </person>
           <person xml:id="RicardusDeMediavilla">
             <persName xml:lang="en">Ricardus de Mediavilla</persName>
+            <note type="order">Franciscan</note>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_of_Middleton</note>
             <note type="wikidata-id">Q446656</note>
           </person>
@@ -1780,6 +1783,7 @@
             <persName xml:lang="en">Henry of Friemar</persName>
             <note type="wikidata-id">Q105359</note>
             <note type="order">Augustinian</note>
+            <!-- also know as Henry the German, Henricus de Alemania -->
             <!-- works according to wikipedia 
               Opus Sermonum Exactissimorum De Sanctis
               De Quadruplici Instinctu, Divino, Angelico, Diabolico, et Humano (Venice, 1498; Parma, 1514) (Treatise on the Four Impulses)
@@ -1787,6 +1791,9 @@
               De Spiritibus, Eorumque Discretione
               Tractatus De Beatae, Mariae Virginis Conceptione (Louvain, 1664)
               De Origine Fratrum Eremitarum Sancti Augustini.
+              
+              Has quodlibets
+              possible also treatise on ten commandments (http://www.textmanuscripts.com/medieval/henricus-de-frimaria-61031)
               -->
           </person>
           <person xml:id="HenryHarclay">
@@ -1878,18 +1885,97 @@
             <note type="wikidata-id">Q717037</note>
             <note type="order">Dominican</note>
             <!-- https://en.wikipedia.org/wiki/John_of_Paris -->
+            <!-- has quodlibets in Bnf14572 and Klosterneuburg, Stiftsbibliothek	179		-->
           </person>
-          
-          
-          
-          
-          
-          
-          
-
-          
-          
+          <person xml:id="NicholasOfAmiens">
+            <persName xml:lang="en">NicholasOfAmiens</persName>
+            <note type="wikidata-id">Q6372706</note>
+            <!-- https://en.wikipedia.org/wiki/Nicholas_of_Amiens -->
+          </person>
+          <person xml:id="NicholasOfAutrecourt">
+            <persName xml:lang="en">NicholasOfAutrecourt</persName>
+            <note type="wikidata-id">Q331322</note>
+            <!-- https://en.wikipedia.org/wiki/Nicholas_of_Autrecourt -->
+          </person>
+          <person xml:id="NicolasBonet">
+            <persName xml:lang="en">NicolasBonet</persName>
+            <note type="wikidata-id">Q3340115</note>
+            <!-- https://en.wikipedia.org/wiki/Nicolas_Bonet -->
+          </person>
+          <person xml:id="NicolasOfCusa">
+            <persName xml:lang="en">Nicolas of Cusa</persName>
+            <note type="wikidata-id">Q154751</note>
+            <!-- https://en.wikipedia.org/wiki/Nicholas_of_Cusa -->
+          </person>
+          <person xml:id="NicholasOfStrasburg">
+            <persName xml:lang="en">Nicholas of Strasburg</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q7026496</note>
+            <!-- https://en.wikipedia.org/wiki/Nicholas_of_Strasburg -->
+          </person>
+          <person xml:id="NicholasTrivet">
+            <persName xml:lang="en">Nicholas Trivet</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q1751724</note>
+            <!-- https://en.wikipedia.org/wiki/Nicholas_Trivet -->
+          </person>
+          <person xml:id="NicoleOresme">
+            <persName xml:lang="en">Nicole Oresme</persName>
+            <note type="wikidata-id">Q310777</note>
+            <!-- https://en.wikipedia.org/wiki/Nicole_Oresme -->
+          </person>
+          <person xml:id="PaoloDaPergola">
+            <persName xml:lang="en">Paolo da Pergola</persName>
+            <note type="wikidata-id">Q2050459</note>
+            <!-- https://en.wikipedia.org/wiki/Paolo_da_Pergola -->
+          </person>
+          <person xml:id="PaulOfVenice">
+            <persName xml:lang="en">Paul of Venice</persName>
+            <note type="wikidata-id">Q2064265</note>
+            <!-- https://en.wikipedia.org/wiki/Paul_of_Venice -->
+          </person>
+          <person xml:id="PeterOfAuvergne">
+            <persName xml:lang="en">Peter of Auvergne</persName>
+            <note type="wikidata-id">Q2081039</note>
+            <!-- https://en.wikipedia.org/wiki/Peter_of_Auvergne -->
+          </person>
+          <person xml:id="PeterCeffons">
+            <persName xml:lang="en">Peter Ceffons</persName>
+            <note type="order">Cistercian</note>
+            <note type="wikidata-id">Q7173221</note>
+            <!-- https://en.wikipedia.org/wiki/Peter_Ceffons -->
+          </person>
+          <person xml:id="ProsperOfReggioEmilia">
+            <persName xml:lang="en">Prosper of Reggio Emilia</persName>
+            <note type="order">Augustinian</note>
+          </person>
+          <person xml:id="RichardRufusOfCornwall">
+            <persName xml:lang="en">Richard Rufus Of Cornwall</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q2038445</note>
+          </person>
+          <person xml:id="RogerMarston">
+            <persName xml:lang="en">Roger Marston</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q2838721</note>
+          </person>
+          <person xml:id="JohnOfNaples">
+            <persName xml:lang="en">John of Naples</persName>
+            <note type="order">Dominican</note>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- see https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/john-naples -->
+          </person>
+          <person xml:id="HannibaldusDeHannibaldis">
+            <persName xml:lang="en">Hannibaldus de Hannibaldis</persName>
+            <note type="order">Dominican</note>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- see https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hannibaldus-de-hannibaldis -->
+            <!-- has quodlibet and sentences commentary. 
+              Stegmuller entry Hannibaldus de Hannibaldis OP, I-IV, ed. Thomas Augustinus, Opera, Basel 1492; Paris 1560; 1660, tom. 11, 1–467; Paris 1889 tom. 30.
+              Basel B III 13 f. 107–181: III–IV. Cambridge, Univ. 2303 (Mm II 8): I–IV; Carpentras 124 f. 1–125. Milano, Ambrosiana 1151 inf: Landulphus, III–IV. Padova, Antoniana 231: III [Si habes etc --> 
+          </person>
         </listPerson>
+        
         
         
       </listPerson>
