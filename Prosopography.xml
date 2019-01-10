@@ -28,7 +28,7 @@
       <listPerson xml:id="prosopography">
         <listPerson type="Arabic">
           <person xml:id="Avicenna">
-            <persName xml:lang="la">Avicenna</persName>
+            <persName xml:lang="en">Avicenna</persName>
           </person>
           <person xml:id="Averroes">
             <persName xml:lang="en">Averroes</persName>
@@ -1575,10 +1575,6 @@
           <person xml:id="WilliamofRubio">
             <persName xml:lang="en">William of Rubio</persName>
             <note type="order">Franciscan</note>
-            <!-- prdl says fl. 1333 http://www.prdl.org/author_view.php?a_id=4837 -->
-            <!--In Sententias, ed. Badius Paris 1518, vol. I/II. -->
-            <!-- vol. 1 https://books.google.com/books?id=bCpJAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false -->
-            <!-- vol. 2 https://books.google.com/books?id=mypJAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false -->
           </person>
           <person xml:id="MichaelOfMassa">
             <persName xml:lang="en">Michael of Massa</persName>
@@ -1974,6 +1970,25 @@
               Stegmuller entry Hannibaldus de Hannibaldis OP, I-IV, ed. Thomas Augustinus, Opera, Basel 1492; Paris 1560; 1660, tom. 11, 1–467; Paris 1889 tom. 30.
               Basel B III 13 f. 107–181: III–IV. Cambridge, Univ. 2303 (Mm II 8): I–IV; Carpentras 124 f. 1–125. Milano, Ambrosiana 1151 inf: Landulphus, III–IV. Padova, Antoniana 231: III [Si habes etc --> 
           </person>
+          <person xml:id="JohnBassolis">
+            <persName xml:lang="en">John Bassolis</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id"></note>
+            <!-- has sent commentary 
+              Ioannes de Bassolis (OFM):  In quatuor Sententiarum libros   (Paris, 1517)
+              http://capricorn.bc.edu/siepm/DOCUMENTS/Bassolis_IV%20Sent.pdf -->
+          </person>
+          <person xml:id="MarsiliusOfInghen">
+            <persName xml:lang="en">Marsilius of Inghen</persName>
+            <note type="wikidata-id">Q704472</note>
+            <!-- sent commentary Marsilius de Inghen:  Questiones super quatuor libros Sententiarum  (Strasbourg, 1501)
+              http://capricorn.bc.edu/siepm/DOCUMENTS/INGHEN/Inghen_IVSent.pdf -->
+          </person>
+          <person xml:id="JohnEck">
+            <persName xml:lang="en">John Eck</persName>
+            <note type="wikidata-id">Q60298</note>
+          </person>
+          
         </listPerson>
         
         
