@@ -562,7 +562,7 @@
           </person>
           <person xml:id="Augustine">
             <persName xml:lang="la">Augustinus</persName>
-            <persName xml:lang="en">Augustine TEST</persName>
+            <persName xml:lang="en">Augustine</persName>
             <persName xml:lang="it">Agostino</persName>
             <note type="wikidata-id">Q8018</note>
           </person>
@@ -1769,7 +1769,7 @@
             <!-- https://en.wikipedia.org/wiki/William_de_Alton-->
           </person>
           <person xml:id="ThomasOfSutton">
-            <persName xml:lang="en">Thomas off Sutton</persName>
+            <persName xml:lang="en">Thomas of Sutton</persName>
             <note type="order">Dominican</note>
             <note type="wikidata-id">Q3525718</note>
             <!-- https://en.wikipedia.org/wiki/Thomas_of_Sutton-->
