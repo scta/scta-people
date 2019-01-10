@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Aristotle", "@language": "en"},{"@value": "Aristotoles", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/classical",
-  "sctap:shortId": "Aristotle"
+  "sctap:shortId": "Aristotle",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q868.json"
+   ]
+  
   }
     

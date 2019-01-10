@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Pseudo-Dionysius", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "Dionysius"
+  "sctap:shortId": "Dionysius",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q312816.json"
+   ]
+  
   }
     

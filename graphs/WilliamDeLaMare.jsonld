@@ -1,16 +1,15 @@
 {
   "@context": "http://scta.info/api/core/1.0/people/context.json",
-  "@id": "http://scta.info/resource/PeterJeanOlivi",
+  "@id": "http://scta.info/resource/WilliamDeLaMare",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Peter Jean Olivi", "@language": "en"}],
+  "dc:title": [{"@value": "William de la Mare", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "PeterJeanOlivi",
+  "sctap:shortId": "WilliamDeLaMare",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
     ],
   "owl:sameAs": [
-          "http://dbpedia.org/resource/Peter_John_Olivi",
-          "https://www.wikidata.org/wiki/Special:EntityData/Q326307.json"
+          "https://www.wikidata.org/wiki/Special:EntityData/Q718564.json"
    ]
   
   }

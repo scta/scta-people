@@ -1,15 +1,15 @@
 {
   "@context": "http://scta.info/api/core/1.0/people/context.json",
-  "@id": "http://scta.info/resource/RichardFishacre",
+  "@id": "http://scta.info/resource/JamesOfMetz",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Richard Fishacre", "@language": "en"}],
+  "dc:title": [{"@value": "James of Metz", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RichardFishacre",
+  "sctap:shortId": "JamesOfMetz",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
     ],
   "owl:sameAs": [
-          "https://www.wikidata.org/wiki/Special:EntityData/Q7325681.json"
+          "https://www.wikidata.org/wiki/Special:EntityData/Q6146059.json"
    ]
   
   }

@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Proclus", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/classical",
-  "sctap:shortId": "Proclus"
+  "sctap:shortId": "Proclus",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q271809.json"
+   ]
+  
   }
     

@@ -5,6 +5,9 @@
   "dc:title": [{"@value": "Ricardus de Mediavilla", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "RicardusDeMediavilla",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+    ],
   "owl:sameAs": [
           "http://dbpedia.org/resource/Richard_of_Middleton",
           "https://www.wikidata.org/wiki/Special:EntityData/Q446656.json"

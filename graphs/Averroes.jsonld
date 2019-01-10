@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Averroes", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/arabic",
-  "sctap:shortId": "Averroes"
+  "sctap:shortId": "Averroes",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q39837.json"
+   ]
+  
   }
     

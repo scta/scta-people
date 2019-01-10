@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/PaulOfVenice",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Paul of Venice", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "PaulOfVenice",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q2064265.json"
+   ]
+  
+  }
+    

@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/HenryHarclay",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "HenryHarclay", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "HenryHarclay",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q5722572.json"
+   ]
+  
+  }
+    

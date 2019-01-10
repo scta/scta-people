@@ -1,15 +1,15 @@
 {
   "@context": "http://scta.info/api/core/1.0/people/context.json",
-  "@id": "http://scta.info/resource/RichardFishacre",
+  "@id": "http://scta.info/resource/JamesOfLausanne",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Richard Fishacre", "@language": "en"}],
+  "dc:title": [{"@value": "James of Lausanne", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "RichardFishacre",
+  "sctap:shortId": "JamesOfLausanne",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Dominican"
     ],
   "owl:sameAs": [
-          "https://www.wikidata.org/wiki/Special:EntityData/Q7325681.json"
+          "https://www.wikidata.org/wiki/Special:EntityData/Q19663889.json"
    ]
   
   }

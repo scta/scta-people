@@ -29,9 +29,11 @@
         <listPerson type="Arabic">
           <person xml:id="Avicenna">
             <persName xml:lang="en">Avicenna</persName>
+            <note type="wikidata-id">Q8011</note>
           </person>
           <person xml:id="Averroes">
             <persName xml:lang="en">Averroes</persName>
+            <note type="wikidata-id">Q39837</note>
           </person>
           <person xml:id="Alkindi">
             <persName xml:lang="en">Alkindi</persName>
@@ -340,6 +342,8 @@
           <person xml:id="Aristotle">
             <persName xml:lang="en">Aristotle</persName>
             <persName xml:lang="la">Aristotoles</persName>
+            <note type="wikidata-id">Q868</note>
+            
           </person>
           <person xml:id="AlexanderAphrodisias">
             <persName xml:lang="en">Alexander Aphrodisias</persName>
@@ -491,6 +495,8 @@
           </person>
           <person xml:id="Proclus">
             <persName xml:lang="en">Proclus</persName>
+            <note type="wikidata-id">Q271809</note>
+            
           </person>
           <person xml:id="Homer">
             <persName xml:lang="en">Homer</persName>
@@ -556,11 +562,14 @@
           </person>
           <person xml:id="Augustine">
             <persName xml:lang="la">Augustinus</persName>
-            <persName xml:lang="en">Augustine</persName>
+            <persName xml:lang="en">Augustine TEST</persName>
             <persName xml:lang="it">Agostino</persName>
+            <note type="wikidata-id">Q8018</note>
           </person>
           <person xml:id="Dionysius">
             <persName xml:lang="en">Pseudo-Dionysius</persName>
+            <note type="wikidata-id">Q312816</note>
+            
           </person>
           <person xml:id="Gratian">
             <persName xml:lang="en">Gratian</persName>
@@ -587,6 +596,7 @@
           <person xml:id="JohnDamascenus">
             <persName xml:lang="en">John the Damascene</persName>
             <persName xml:lang="la">Johannes Damascenus</persName>
+            <note type="wikidata-id">Q51884</note>
           </person>
           <person xml:id="Arius">
             <persName xml:lang="en">Arius</persName>

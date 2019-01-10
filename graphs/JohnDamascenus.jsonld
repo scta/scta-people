@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "John the Damascene", "@language": "en"},{"@value": "Johannes Damascenus", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "JohnDamascenus"
+  "sctap:shortId": "JohnDamascenus",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q51884.json"
+   ]
+  
   }
     

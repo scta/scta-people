@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/JohnHalgrinOfAbbeville",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "John Halgrin Of Abbeville", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "JohnHalgrinOfAbbeville",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q3129519.json"
+   ]
+  
+  }
+    
