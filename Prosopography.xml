@@ -1998,6 +1998,11 @@
             <persName xml:lang="en">John Eck</persName>
             <note type="wikidata-id">Q60298</note>
           </person>
+          <person xml:id="FrancescoZaabarella">
+            <persName xml:lang="en">Francesco Zabarella</persName>
+            <note type="wikidata-id">Q1338205</note>
+            <!-- part of commentary on decretals is here: https://books.google.com/books?id=4oVurpp3KXgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false -->
+          </person>
           
         </listPerson>
         
