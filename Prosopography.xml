@@ -2003,6 +2003,13 @@
             <note type="wikidata-id">Q1338205</note>
             <!-- part of commentary on decretals is here: https://books.google.com/books?id=4oVurpp3KXgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false -->
           </person>
+          <person xml:id="AlexanderIII">
+            <persName xml:lang="en">Alexander III</persName>
+            <!-- aka Roland of Siena -->
+            <note type="wikidata-id">Q160116</note>
+            
+          </person>
+          
           
         </listPerson>
         
