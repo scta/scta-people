@@ -2009,8 +2009,10 @@
             <note type="wikidata-id">Q160116</note>
             
           </person>
-          
-          
+          <person xml:id="JustinianI">
+            <persName xml:lang="en">Justinian I</persName>
+            <note type="wikidata-id">Q41866</note>
+          </person>
         </listPerson>
         
         
