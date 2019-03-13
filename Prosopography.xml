@@ -504,6 +504,11 @@
           <person xml:id="Hercules">
             <persName xml:lang="en">Hercules</persName>
           </person>
+          <person xml:id="Arcadius">
+            <persName xml:lang="en">Arcadius</persName>
+            <note type="wikidata-id">Q171677</note>
+            <!-- roman emperor whose laws are quoted by Justinian in Digest and elsewhere -->
+          </person>
         </listPerson>
         <listPerson type="Divine">
           <person xml:id="God">
