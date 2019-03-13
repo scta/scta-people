@@ -509,6 +509,11 @@
             <note type="wikidata-id">Q171677</note>
             <!-- roman emperor whose laws are quoted by Justinian in Digest and elsewhere -->
           </person>
+          <person xml:id="Ulpianus">
+            <persName xml:lang="en">Ulpianus</persName> <!-- Gnaeus Domitius Annius Ulpianus -->
+            <note type="wikidata-id">Q310076</note>
+            <!-- roman emperor whose laws are prolifically used by Justinian in Digest and elsewhere -->
+          </person>
         </listPerson>
         <listPerson type="Divine">
           <person xml:id="God">
