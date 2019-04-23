@@ -2023,6 +2023,42 @@
             <persName xml:lang="en">Justinian I</persName>
             <note type="wikidata-id">Q41866</note>
           </person>
+          <person xml:id="Hostiensis">
+            <persName xml:lang="en">Hostiensis</persName><!-- Henricus de Segusio -->
+            <note type="wikidata-id">Q1347275</note>
+            <!--1537: https://archive.org/details/bub_gb_zm0nce5DR_YC-->
+            <!-- cologne 1612 https://books.google.com/books?id=AQtCAAAAcAAJ -->
+            
+            <!-- wikipedia lists: Strasburg, 1512; Cologne, 1612; Venice, 1605 -->
+            
+            <!-- might also be a work "lectura in decretales Gregorii (strasburg 1512 Paris 1512) -->
+          </person>
+          <person xml:id="JohannesMonachus">
+            <persName xml:lang="en">Johannes Monachus</persName><!-- John Monaldus, Jean Lemooin -->
+            <note type="wikidata-id">Q721081</note>
+            <!-- commentary on book 6 of decretales: https://books.google.com/books?id=gOhmAAAAcAAJ -->
+            <!-- summary from wikipedia: 
+              "Jean Lemoine, Jean Le Moine, Johannes Monachus[1] 
+              (born 1250 at Crécy-en-Ponthieu, died 22 August 1313 at Avignon) 
+              was a French canon lawyer, Cardinal, bishop of Arras and papal legate. 
+              He served Boniface VIII as representative to Philip IV of France, 
+              and founded the Collège du Cardinal Le Moine,[2] in Paris."
+              -->
+          </person>
+          <person xml:id="FranciscoDeHerrera">
+            <persName xml:lang="en">Francisco de Herrera</persName>
+            <note type="order">Franciscan</note>
+            <!-- there is also a painter by this name, https://en.wikipedia.org/wiki/Francisco_Herrera_the_Elder
+              but they seem to be different people -->
+            <!-- sentences commentary from Barcelona 1611: https://books.google.com/books?id=JZ-JykEPAFMC -->
+          </person>
+          <person xml:id="RobertOfCricklade">
+            <persName xml:lang="en">Robert of Cricklade</persName>
+            <note type="order">AugustinianCanon</note>
+            <note type="wikidata-id">Q15431107</note>
+          </person>
+          
+          
         </listPerson>
         
         
