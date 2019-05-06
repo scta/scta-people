@@ -2061,9 +2061,89 @@
             <persName xml:lang="en">Willem Hessels Van Est</persName>
             <note type="wikidata-id">Q960296</note>
           </person>
-          
-          
-          
+          <person xml:id="ThomasDeClivis">
+            <persName xml:lang="en">Thomas de Clivis</persName>
+            <note type="wikidata-id"></note>
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="StephansuDeEntzendorf">
+            <persName xml:lang="en">Stephanus de Entzendorf</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="PetrusDeWalse">
+            <persName xml:lang="en">Petrus de Walse</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="PetrusDeTreisa">
+            <persName xml:lang="en">Petrus de Treisa</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="PaulusDeGelria">
+            <persName xml:lang="en">Paulus de Gelria</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="NicolasDeAnaskilch">
+            <persName xml:lang="en">Nicolas de Anaskilch</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="JohannesRuesbach">
+            <persName xml:lang="en">Johannes Ruesbach</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="IohannesBerwardus">
+            <persName xml:lang="en">Iohannes Berwardus</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="GerhardusVischpekchDeOsnabruck">
+            <persName xml:lang="en">Gerhardus Vischpekch de Osnabrück</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="AndreaDeLangenstein">
+            <persName xml:lang="en">Andrea de Langenstein</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="AnonymusRise">
+            <persName xml:lang="en">Anonymous</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="JoseAngles">
+            <persName xml:lang="en">Jose Angles</persName>
+            <note type="order">Franciscan</note>
+            <!-- wrote flores theologicarum, weird type of sentences commentary 
+            for example: https://books.google.com/books?id=whA8AAAAcAAJ
+            --> 
+            <!-- See http://www.prdl.org/author_view.php?a_id=2177-->
+          </person>
+          <person xml:id="PaulusScriptoris">
+            <persName xml:lang="en">Paulus Scriptori</persName>
+            <note type="order">Franciscan</note>
+            
+            <!-- wrote sentences commentary 
+            for example: https://books.google.com/books?id=WmlKAAAAcAAJ 
+            -->
+            <!-- http://www.prdl.org/author_view.php?a_id=5343 -->
+          </person>
+          <person xml:id="JuanIribarneEUraburu">
+            <persName xml:lang="en">Juan Iribarne E Uraburu</persName>
+            <!-- google books also has entry with Franciscus -->
+            <!-- 1615 https://books.google.com/books?id=-4np3wmNY64C 
+            seems like he has commentary on the commentary of scotus 
+            
+            https://books.google.com/books?id=apK_9KrA3r8C
+            
+            see http://www.prdl.org/author_view.php?a_id=3647 (but not sent commentary listed-->
+            
+          </person>
           
         </listPerson>
         
