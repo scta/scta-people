@@ -1790,7 +1790,7 @@
             <note type="wikidata-id">Q8012546</note>
             <!-- https://en.wikipedia.org/wiki/William_Houghton_(bishop) -->
             <!-- english dominican -->
-            <!-- wikikpedia says there is Sent Commentary, but RCS/Stegmuller has no entry 
+            <!-- wikikpedia says there is Sent Commentary, but RCS/Stegmuller has no entry (Roench suggests Glorieux, Repoertoir I, n. 37
             Kappelli n. 1491 list Sentences commentary but not surviving witness
             n. 1492 suggest surviving quodlibets in bnf 15805, f. 17-19 -->
             <!-- http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13857 -->
@@ -2144,6 +2144,49 @@
             see http://www.prdl.org/author_view.php?a_id=3647 (but not sent commentary listed-->
             
           </person>
+          <person xml:id="HenriBohic">
+            <persName xml:lang="en">Henri Bohic</persName>
+            <note type="wikidata-id">Q3130702</note>
+            <!-- french canon lawyer, commentary on decretales
+              lived (1310-1350)
+            see 1576 printing https://archive.org/details/bub_gb_ePuIB0WhTz8C/page/n91
+            1420 manuscript of commentary on book 1: http://bibliophilly.library.upenn.edu/viewer.php?id=Lewis%20E%2048#page/1/mode/2up 
+            -->
+          </person>
+          <person xml:id="PaulusBarbus">
+            <persName xml:lang="en">Paulus Barbus</persName>
+            <!-- also known as Paul Soncinas, d. 1494 (born in Soncino, Lombardy) -->
+            <!-- Italian -->
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q5812793</note>
+            <!-- works listed by wikipedia 
+              "Quaestiones super divina sapientia Aristotelis" (principal edition, Lyons, 1579);
+              "Divinum Epitoma quaestionum in IV libros senentiarum a principe Thomistarum Joanne Capreolo Tolesano disputatarum" (principal edition, Pavia, 1522)
+              The place and date of "In libros praedicabilium et praedicamentorum expositio" are unknown.
+              -->
+          </person>
+          <person xml:id="WilliamMacclesField">
+            <persName xml:lang="en">William Macclesfield</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q3569049</note>
+            
+          </person>
+          <person xml:id="ProsperoFagnani">
+            <persName xml:lang="en">Prospero Fagnani</persName>
+            <note type="wikidata-id">Q23807642</note>
+            <!-- wrote commentary on Decretales
+              https://books.google.com/books?id=gnFFAAAAcAAJ
+              first edition was published at Rome, in 1661, under the title of "Jus canonicum seu commentaria absolutissima in quinque libros Decretalium".
+              -->
+            
+          </person>
+          <person xml:id="MartinChemnitz">
+            <persName xml:lang="en">Martin Chemnitz</persName>
+            <note type="wikidata-id">Q63146</note>
+          </person>
+          
+        
+          
           
         </listPerson>
         
