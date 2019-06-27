@@ -2188,6 +2188,12 @@
             <persName xml:lang="en">Heinrich Bullinger</persName>
             <note type="wikidata-id">Q123839</note>
           </person>
+          <person xml:id="MelchiorCano">
+            <persName xml:lang="en">Melchior Cano</persName>
+            <note type="wikidata-id">Q644162</note>
+            <note type="order">Dominican</note>
+          </person>
+          
           
           
         
