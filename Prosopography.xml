@@ -2193,11 +2193,10 @@
             <note type="wikidata-id">Q644162</note>
             <note type="order">Dominican</note>
           </person>
-          
-          
-          
-        
-          
+          <person xml:id="AntoineDeChandieu">
+            <persName xml:lang="en">Antoine de Chandieu</persName>
+            <note type="wikidata-id">Q2856857</note>
+          </person>
           
         </listPerson>
         
