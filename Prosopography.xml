@@ -576,15 +576,15 @@
             <persName xml:lang="it">Agostino</persName>
             <note type="wikidata-id">Q8018</note>
           </person>
+          <person xml:id="PsAugustine">
+            <persName xml:lang="en">Pseudo-Augustinus</persName>
+          </person>
           <person xml:id="Dionysius">
             <persName xml:lang="en">Pseudo-Dionysius</persName>
             <note type="wikidata-id">Q312816</note>
             
           </person>
-          <person xml:id="Gratian">
-            <persName xml:lang="en">Gratian</persName>
-            <persName xml:lang="la">Flavius Gratianus Augustus</persName>
-          </person>
+          
           <person xml:id="GregoryGreat">
             <persName xml:lang="en">Gregory the Great</persName>
             <persName xml:lang="la">Gregorius Magnus</persName>
@@ -704,8 +704,16 @@
             <persName xml:lang="en">Cassiodorus</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Cassiodorus</note>
           </person>
+          <person xml:id="RabanusMaurus">
+            <persName xml:lang="en">Rabanus Maurus</persName>
+            <note type="wikidata-id">Q160441</note>
+          </person>
         </listPerson>
         <listPerson type="Scholastic">
+          <person xml:id="Gratian">
+            <persName xml:lang="en">Gratian</persName>
+            <persName xml:lang="la">Flavius Gratianus Augustus</persName>
+          </person>
           <person xml:id="JohnHiltalingenBasel">
             <persName xml:lang="en">John Hiltalingen of Basel</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Johann_Hiltalinger</note>
