@@ -1060,7 +1060,7 @@
             <note type="order">Carmelite</note>
           </person>
           <person xml:id="PetrusHispanus">
-            <persName xml:lang="en">Peter Hispanicus</persName>
+            <persName xml:lang="en">Petrus Hispanus</persName>
             <persName xml:lang="la">Petrus Hispanus</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Peter_of_Spain</note>
             <note type="wikidata-id">Q320546</note>
@@ -2204,6 +2204,10 @@
           <person xml:id="AntoineDeChandieu">
             <persName xml:lang="en">Antoine de Chandieu</persName>
             <note type="wikidata-id">Q2856857</note>
+          </person>
+          <person xml:id="ClementV">
+            <persName xml:lang="en">Clement V</persName>
+            <note type="wikidata-id">Q131463</note>
           </person>
           
         </listPerson>
