@@ -545,6 +545,12 @@
             <persName xml:lang="en">Peter Damian</persName>
             <persName xml:lang="la">Petrus Damiani</persName>
           </person>
+          <person xml:id="TyranniusRufinus">
+            <persName xml:lang="en">Tyrannius Rufinus</persName>
+            <note type="wikidata-id">Q365835</note>
+            <!-- translator of Jerome; mentioned in Pico apologia -->
+          </person>
+          
           <person xml:id="PaulSamosata">
             <persName xml:lang="en">Paul of Samosata</persName>
           </person>
@@ -2124,6 +2130,18 @@
             <!--<note type="wikidata-id"></note>-->
             <!--- included in RISE project ms -->
           </person>
+          <person xml:id="PetrusScad">
+            <persName xml:lang="en">Petrus Scad</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          <person xml:id="Lionhardus">
+            <persName xml:lang="en">Lionhardus</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!--- included in RISE project ms -->
+          </person>
+          
+          
           <person xml:id="JoseAngles">
             <persName xml:lang="en">Jose Angles</persName>
             <note type="order">Franciscan</note>
