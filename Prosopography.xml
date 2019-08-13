@@ -892,6 +892,10 @@
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q43746</note>
           </person>
+          <person xml:id="PsBonaventure">
+            <persName xml:lang="en">Ps-Bonaventure</persName>
+            <!-- current author of Liber Pharetrae florilegium -->
+          </person>
           <person xml:id="Lombard">
             <persName xml:lang="en">Peter Lombard</persName>
             <note type="wikidata-id">Q315347</note>
