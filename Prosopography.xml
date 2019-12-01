@@ -2231,11 +2231,12 @@
             <persName xml:lang="en">Clement V</persName>
             <note type="wikidata-id">Q131463</note>
           </person>
-          
+          <person xml:id="JohnBelethus">
+            <persName xml:lang="en">JohnBelethus</persName>
+            <note type="wikidata-id">Q3170679</note>
+            <!--author of Rationale Divinorum Officiorum http://scta.info/resource/raWSwa-->
+          </person>
         </listPerson>
-        
-        
-        
       </listPerson>
     </body>
   </text>
