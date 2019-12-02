@@ -2232,9 +2232,13 @@
             <note type="wikidata-id">Q131463</note>
           </person>
           <person xml:id="JohnBelethus">
-            <persName xml:lang="en">JohnBelethus</persName>
+            <persName xml:lang="en">John Belethus</persName>
             <note type="wikidata-id">Q3170679</note>
             <!--author of Rationale Divinorum Officiorum http://scta.info/resource/raWSwa-->
+          </person>
+          <person xml:id="PedroGarcia">
+            <persName xml:lang="en">Pedro Garcia</persName>
+            <!--author of Determinationes magistrales  http://scta.info/resource/ooij7j-->
           </person>
         </listPerson>
       </listPerson>
