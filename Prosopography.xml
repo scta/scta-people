@@ -2240,6 +2240,12 @@
             <persName xml:lang="en">Pedro Garcia</persName>
             <!--author of Determinationes magistrales  http://scta.info/resource/ooij7j-->
           </person>
+          <person xml:id="WilliamOfMelitona">
+            <persName xml:lang="en">William of Melitona</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q8020890</note>
+            <!--real author of book 4 of summa aurea of Alexander of Hales-->
+          </person>
         </listPerson>
       </listPerson>
     </body>
