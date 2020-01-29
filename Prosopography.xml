@@ -2246,6 +2246,13 @@
             <note type="wikidata-id">Q8020890</note>
             <!--real author of book 4 of summa aurea of Alexander of Hales-->
           </person>
+          <person xml:id="GeoffreyOfTrani">
+            <persName xml:lang="en">Geoffrey of Trani</persName>
+            <persName xml:lang="la">Goffredus Tranensis</persName>
+            <note type="wikidata-id">Q324213</note>
+            <!--italian iurist oft cited by hostiensis; 
+              author of Summa super titulis decretalium (seems to be a 1519 Lyon edition) -->
+          </person>
         </listPerson>
       </listPerson>
     </body>
