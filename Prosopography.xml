@@ -2265,6 +2265,11 @@
             <name>Iohannes de Florentina</name>
             <!-- mention in Gracilis principium I as bachallarium servorum beatae mariae fratrem iohannem de florentia -->
           </person>
+          <person xml:id="per-29vsnv">
+            <name>Bartholomeus Brixiensis</name>
+            <!-- Author of revised ordinary gloss on gratian see: http://scta.info/resource/faw3vv -->
+          </person>
+          
         </listPerson>
       </listPerson>
     </body>
