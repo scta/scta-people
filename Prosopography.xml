@@ -2269,6 +2269,12 @@
             <name>Bartholomeus Brixiensis</name>
             <!-- Author of revised ordinary gloss on gratian see: http://scta.info/resource/faw3vv -->
           </person>
+          <person xml:id="per-vqn2ad">
+            <name>Anselm of Lucca</name>
+            <note type="wikidata-id">Q1040234</note>
+            <!-- -->
+          </person>
+          
           
         </listPerson>
       </listPerson>
