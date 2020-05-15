@@ -2254,28 +2254,26 @@
               author of Summa super titulis decretalium (seems to be a 1519 Lyon edition) -->
           </person>
           <person xml:id="per-aw4gin">
-            <name>Robertum de Voto Bernadum</name>
+            <persName xml:lang="en">Robertum de Voto Bernadum</persName>
             <!-- mention in Gracilis principium I -->
           </person>
-          <person xml:id="cod-abq11a">
-            <name>Nycholaum de Meseryo</name>
+          <person xml:id="per-abq11a">
+            <persName xml:lang="en">Nycholaum de Meseryo</persName>
             <!-- mention in Gracilis principium I as Bachallarium Hariciurae magistrum nycholaum de meseryo -->
           </person>
           <person xml:id="per-VVNsc3">
-            <name>Iohannes de Florentina</name>
+            <persName xml:lang="en">Iohannes de Florentina</persName>
             <!-- mention in Gracilis principium I as bachallarium servorum beatae mariae fratrem iohannem de florentia -->
           </person>
           <person xml:id="per-29vsnv">
-            <name>Bartholomeus Brixiensis</name>
+            <persName xml:lang="en">Bartholomeus Brixiensis</persName>
             <!-- Author of revised ordinary gloss on gratian see: http://scta.info/resource/faw3vv -->
           </person>
           <person xml:id="per-vqn2ad">
-            <name>Anselm of Lucca</name>
+            <persName xml:lang="en">Anselm of Lucca</persName>
             <note type="wikidata-id">Q1040234</note>
             <!-- -->
           </person>
-          
-          
         </listPerson>
       </listPerson>
     </body>
