@@ -2274,6 +2274,19 @@
             <note type="wikidata-id">Q1040234</note>
             <!-- -->
           </person>
+          
+          <!-- Early Modern Printers; currently be capture as "scholastic"; not sure if that is best/accurate -->
+          <person xml:id="per-jbad3d">
+            <persName xml:lang="en">Jodocus Badius</persName>
+            <note type="wikidata-id">Q942766</note>
+            <!-- printer/editor/publisher -->
+          </person>
+          <person xml:id="per-adf3ff">
+            <persName xml:lang="en">Anton Koberger</persName>
+            <note type="wikidata-id">Q64233</note>
+            <!-- printer/editor/publisher -->
+          </person>
+          
         </listPerson>
       </listPerson>
     </body>
