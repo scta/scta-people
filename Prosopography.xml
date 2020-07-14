@@ -2288,6 +2288,14 @@
           </person>
           
         </listPerson>
+        <listPerson type="Other">
+          <person xml:id="per-vnv4a4">
+            <persName xml:lang="en">Franciscus Salesius Schmitt</persName>
+            <note type="wikidata-id">Q55772297</note>
+            <!-- editor of 1938 anselm volumes -->
+          </person>
+          
+        </listPerson>
       </listPerson>
     </body>
   </text>
