@@ -2286,7 +2286,11 @@
             <note type="wikidata-id">Q64233</note>
             <!-- printer/editor/publisher -->
           </person>
-          
+          <!-- should there be a category for "humanist" -->
+          <person xml:id="per-lval8a">
+            <persName xml:lang="en">Lorenzo Valla</persName>
+            <note type="wikidata-id">Q214115</note>
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
@@ -2294,6 +2298,7 @@
             <note type="wikidata-id">Q55772297</note>
             <!-- editor of 1938 anselm volumes -->
           </person>
+          
           
         </listPerson>
       </listPerson>
