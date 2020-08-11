@@ -677,6 +677,12 @@
           <person xml:id="PopeInnocentIII">
             <persName xml:lang="en">Pope Innocent III</persName>
             <persName xml:lang="la">Papa Innocentius III</persName>
+            <note type="wikidata-id">Q128076</note>
+          </person>
+          <person xml:id="per-ZEvn3a">
+            <persName xml:lang="en">Pope Innocent II</persName>
+            <persName xml:lang="la">Papa Innocentius II</persName>
+            <note type="wikidata-id">Q170386</note>
           </person>
           <person xml:id="PopeGregoryIV">
             <persName xml:lang="en">Pope Gregory IV</persName>
