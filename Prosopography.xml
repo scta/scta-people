@@ -2297,6 +2297,10 @@
             <persName xml:lang="en">Lorenzo Valla</persName>
             <note type="wikidata-id">Q214115</note>
           </person>
+          <person xml:id="per-Ca13fj">
+            <persName xml:lang="en">Anonymous</persName>
+            <!-- anonymous auth of sent commentary in UPenn 727 -->
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
