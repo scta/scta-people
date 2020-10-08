@@ -2301,6 +2301,18 @@
             <persName xml:lang="en">Anonymous</persName>
             <!-- anonymous auth of sent commentary in UPenn 727 -->
           </person>
+          <person xml:id="per-b3aq1a">
+            <persName xml:lang="en">Paolo Cortese</persName>
+            <!-- author of late sent commentary 
+            see: https://opacplus.bsb-muenchen.de/title/BV001397877
+            -->
+          </person>
+          <person xml:id="per-Xxqb4a">
+            <persName xml:lang="en">Antonius Orerius</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- printer/editor/publisher -->
+            <!-- printer of Genoa 1585 commentary by strasbourg; see cod-TxxxqU-->
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
@@ -2308,8 +2320,12 @@
             <note type="wikidata-id">Q55772297</note>
             <!-- editor of 1938 anselm volumes -->
           </person>
-          
-          
+          <person xml:id="nivaca">
+            <persName xml:lang="en">Nicolas Vaughan</persName>
+          </person>
+          <person xml:id="jeffreycwitt">
+            <persName xml:lang="en">Jeffrey C. Witt</persName>
+          </person>
         </listPerson>
       </listPerson>
     </body>
