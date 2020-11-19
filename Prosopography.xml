@@ -2326,7 +2326,13 @@
           <person xml:id="jeffreycwitt">
             <persName xml:lang="en">Jeffrey C. Witt</persName>
           </person>
+          <person xml:id="per-av4Viv">
+            <persName xml:lang="en">Ludovicus Vives</persName>
+            <persName xml:lang="la">Ludovicus Vives</persName>
+            <!-- editor of 19th century scotus edition -->
+          </person>
         </listPerson>
+        
       </listPerson>
     </body>
   </text>
