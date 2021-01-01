@@ -2280,6 +2280,14 @@
             <note type="wikidata-id">Q1040234</note>
             <!-- -->
           </person>
+          <person xml:id="per-sdv3av">
+            <persName xml:lang="en">Marcantonio Zimara</persName>
+            <note type="wikidata-id">Q130351</note>
+            <!-- late 15th century italian philosopher, 
+              including commentary on Aristotle and Averroes Metaphysics -->
+          </person>
+          
+          
           
           <!-- Early Modern Printers; currently be capture as "scholastic"; not sure if that is best/accurate -->
           <person xml:id="per-jbad3d">
@@ -2313,6 +2321,13 @@
             <!-- printer/editor/publisher -->
             <!-- printer of Genoa 1585 commentary by strasbourg; see cod-TxxxqU-->
           </person>
+          <person xml:id="per-vandEE">
+            <persName xml:lang="en">Iuntina</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- printer/editor/publisher -->
+            <!-- printer cod-AAssXX and other 16th century Latin Aristotle and Averroes editions -->
+          </person>
+          
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
