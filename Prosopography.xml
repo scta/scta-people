@@ -2287,6 +2287,11 @@
               including commentary on Aristotle and Averroes Metaphysics -->
           </person>
           
+          <person xml:id="per-jjska2">
+            <persName xml:lang="en">Amandus Polanus von Polansdorf</persName>
+            <note type="wikidata-id">Q454349</note>
+            <!-- Reformation thinker; still being captured as scholastic thinker -->
+          </person>
           
           
           <!-- Early Modern Printers; currently be capture as "scholastic"; not sure if that is best/accurate -->
