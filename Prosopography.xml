@@ -2287,6 +2287,19 @@
               including commentary on Aristotle and Averroes Metaphysics -->
           </person>
           
+          <person xml:id="per-a28anv">
+            <persName xml:lang="en">Pelbartus de Themeswar</persName>
+            <note type="wikidata-id">Q302718</note>
+            <!-- (c.1435-1504) catholic 
+              wrote Aureum Sacrae Theologiae Rosarium iuxta Quattuor Sententiarum Libros Pariformiter Quadripartitum
+              which is cited by Polanus von Polansdorf in early chapters of book 1 chapter, 7th proemial question, section 25 -->
+            
+            <!-- Volume 1 of Aureum https://opacplus.bsb-muenchen.de/title/BV010649794 -->
+            <!-- all four volumes https://opacplus.bsb-muenchen.de/metaopac/search.do?methodToCall=volumeSearch&dbIdentifier=100&forward=success&catKey=12502427&isPeriodical=N -->
+          </person>
+          
+          
+          
           <person xml:id="per-jjska2">
             <persName xml:lang="en">Amandus Polanus von Polansdorf</persName>
             <note type="wikidata-id">Q454349</note>
