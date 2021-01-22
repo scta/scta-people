@@ -514,6 +514,12 @@
             <note type="wikidata-id">Q310076</note>
             <!-- roman emperor whose laws are prolifically used by Justinian in Digest and elsewhere -->
           </person>
+          <person xml:id="per-HDmDvD">
+            <persName xml:lang="en">Pliny the Elder</persName> <!-- Pliny the Elder -->
+            <persName xml:lang="la">Plinius</persName> <!-- Pliny the Elder -->
+            <note type="wikidata-id">Q82778</note>
+          </person>
+          
         </listPerson>
         <listPerson type="Divine">
           <person xml:id="God">
