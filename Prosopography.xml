@@ -886,6 +886,7 @@
             <persName xml:lang="en">Richard of Kilvington</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Richard_Kilvington</note>
             <note type="wikidata-id">Q468950</note>
+            <note type="order">Augustinian</note>
           </person>
           <person xml:id="RichardOfStVictor">
             <persName xml:lang="en">Richard of St. Victor</persName>
@@ -2304,7 +2305,14 @@
             <!-- all four volumes https://opacplus.bsb-muenchen.de/metaopac/search.do?methodToCall=volumeSearch&dbIdentifier=100&forward=success&catKey=12502427&isPeriodical=N -->
           </person>
           
-          
+          <person xml:id="per-c48ana">
+            <persName xml:lang="en">Honofrius</persName>
+            <!-- unidentified; first instance in gracilis pg-b1q2-Nd1e1005 
+            no obvious candidate; there is a Honorius of Kent https://en.wikipedia.org/wiki/Honorius_of_Kent 
+            who seems to be a canon lawyer; doesn't quite feel like the person Gracilis has in mind;
+            -->
+          </person>
+            
           
           <person xml:id="per-jjska2">
             <persName xml:lang="en">Amandus Polanus von Polansdorf</persName>
