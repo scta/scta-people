@@ -1029,8 +1029,12 @@
             <note type="order">Augustinian</note>
           </person>
           <person xml:id="JohannesBrakel">
-            <persName xml:lang="en">Johannes de Brake</persName>
+            <persName xml:lang="en">Johannes de Brakel</persName>
             <note>Lecture on the Sentences probably in 1370-1371 (See Zumkeller p. 51)</note>
+          </person>
+          <person xml:id="per-avn4av">
+            <persName xml:lang="en">Richardus Brinkel</persName>
+            <!-- observed citation in gracilis pg-b1q5 -->
           </person>
           <person xml:id="ThomasStrasbourg">
             <persName xml:lang="en">Thomas of Strasbourg</persName>
@@ -2222,6 +2226,10 @@
               first edition was published at Rome, in 1661, under the title of "Jus canonicum seu commentaria absolutissima in quinque libros Decretalium".
               -->
             
+          </person>
+          <person xml:id="per-dsPeAb">
+            <persName xml:lang="en">Peter Abelard</persName>
+            <note type="wikidata-id">Q4295</note>
           </person>
           <person xml:id="MartinChemnitz">
             <persName xml:lang="en">Martin Chemnitz</persName>
