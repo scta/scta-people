@@ -2368,6 +2368,12 @@
             <!-- printer cod-AAssXX and other 16th century Latin Aristotle and Averroes editions -->
           </person>
           
+          <person xml:id="per-PePeMa">
+            <persName xml:lang="en">Petrus Peregrinus de Maricourt</persName>
+            <note type="wikidata-id">Q577394</note>
+            <!-- author of treatise on magnitism http://scta.info/resource/M8ag89 -->
+          </person>
+          
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
