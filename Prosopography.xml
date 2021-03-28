@@ -556,7 +556,11 @@
             <note type="wikidata-id">Q365835</note>
             <!-- translator of Jerome; mentioned in Pico apologia -->
           </person>
-          
+          <person xml:id="per-Fulcq4">
+            <persName xml:lang="en">Fulgentius of Ruspe</persName>
+            <note type="wikidata-id">Q380089</note>
+            <!-- author of de Fide ad Petrum often attributed to Augustine -->
+          </person>
           <person xml:id="PaulSamosata">
             <persName xml:lang="en">Paul of Samosata</persName>
           </person>
