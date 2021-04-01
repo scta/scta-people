@@ -1344,6 +1344,10 @@
             <note type="wikidata-id">Q8020857</note>
             <!-- possible conflicting wikidata ids Q8004388 Q19036528 -->
           </person>
+          <person xml:id="per-cnuv73">
+            <persName xml:lang="en">William St. Amour</persName>
+            <note type="wikidata-id">Q2576059</note>
+          </person>
           <person xml:id="JamesOfAscoli">
             <persName xml:lang="en">James Of Ascoli</persName>
           </person>
