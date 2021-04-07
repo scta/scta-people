@@ -2095,6 +2095,14 @@
               but they seem to be different people -->
             <!-- sentences commentary from Barcelona 1611: https://books.google.com/books?id=JZ-JykEPAFMC -->
           </person>
+          <person xml:id="per-FLBca3">
+            <persName xml:lang="en">Franciscus Lychetus</persName>
+            <note type="order">Franciscan</note>
+            <!-- doesn't seem to be a wikidata entry -->
+            <!--Francesco Licheto, O.F.M. (1450-1520); see https://www.prdl.org/author_view.php?a_id=4774-->
+            <!-- commentator on scotus edition included in Vives edition -->
+          </person>
+          
           <person xml:id="RobertOfCricklade">
             <persName xml:lang="en">Robert of Cricklade</persName>
             <note type="order">AugustinianCanon</note>
@@ -2335,6 +2343,8 @@
             <note type="wikidata-id">Q454349</note>
             <!-- Reformation thinker; still being captured as scholastic thinker -->
           </person>
+          
+          
           
           
           <!-- Early Modern Printers; currently be capture as "scholastic"; not sure if that is best/accurate -->
