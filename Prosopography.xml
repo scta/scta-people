@@ -2337,6 +2337,12 @@
             -->
           </person>
             
+          <person xml:id="per-c7y65a">
+            <persName xml:lang="en">Geremia da Montagnone</persName>
+            <note type="wikidata-id">Q3761009</note>
+            <!-- author of florilegia "Compendium moralium notabilium" -->
+          </person>
+            
           
           <person xml:id="per-jjska2">
             <persName xml:lang="en">Amandus Polanus von Polansdorf</persName>
