@@ -2398,6 +2398,23 @@
             <!-- author of treatise on magnitism http://scta.info/resource/M8ag89 -->
           </person>
           
+          <person xml:id="per-Gav9di">
+            <persName xml:lang="en">Frederico Niccolo Gavardi</persName>
+            <note type="order">Augustinian</note>
+            <!-- 
+              Gavardi https://books.google.com/books?id=l99EAAAAcAAJ&source=gbs_navlinks_s
+              still ordered around Sentences commentary (4 books but distinction headings are replaced by topic headings 
+              These all seem available at BSB
+          
+              http://www.prdl.org/author_view.php?a_id=5335
+              Frederico Niccolò Gavardi, O.E.S.A. (1640-1715)
+              
+              Frequently pointed to be editors of Cordoba 1699 Giles of Rome Book 1 Sentences
+              Lots of BSB copies: https://www.digitale-sammlungen.de/en/search?query=all%3A%28Frederico+Niccol%C3%B2+Gavardi%29
+           -->
+          </person>
+          
+          
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
