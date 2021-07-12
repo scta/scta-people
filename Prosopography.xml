@@ -1068,8 +1068,8 @@
           <person xml:id="RadulphusDeCastello">
             <persName xml:lang="en">Randalphus of Castello</persName>
           </person>
-          <person xml:id="FascinusOfAsti">
-            <persName xml:lang="en">Fascinus of Asti</persName>
+          <person xml:id="per-U89ddd">
+            <persName xml:lang="en">Facinus de Ast</persName>
           </person>
           <person xml:id="LandulphusCaracciolo">
             <persName xml:lang="en">Landulphus Caracciolo</persName>
@@ -1221,6 +1221,8 @@
           </person>
           <person xml:id="AndreasDeNovoCastro">
             <persName xml:lang="en">Andreas de Novo Castro</persName>
+            <note type="order">Franciscan</note>
+            <note type="wikidata-id">Q4760109</note>
           </person>
           <person xml:id="FranciscusTotiDePerusia">
             <persName xml:lang="en">Franciscus Toti de Perusia</persName>
@@ -2330,13 +2332,10 @@
           </person>
           
           <person xml:id="per-c48ana">
-            <persName xml:lang="en">Honofrius</persName>
-            <!-- unidentified; first instance in gracilis pg-b1q2-Nd1e1005 
-            no obvious candidate; there is a Honorius of Kent https://en.wikipedia.org/wiki/Honorius_of_Kent 
-            who seems to be a canon lawyer; doesn't quite feel like the person Gracilis has in mind;
-            -->
+            <persName xml:lang="en">Honorius Augustodunensis</persName>
+            <note type="wikidata-id">Q543586</note>
+            <!-- mentioned by gracilis a few times, as "Honofrius" or other variations -->
           </person>
-            
           <person xml:id="per-c7y65a">
             <persName xml:lang="en">Geremia da Montagnone</persName>
             <note type="wikidata-id">Q3761009</note>
