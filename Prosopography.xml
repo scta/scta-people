@@ -2342,6 +2342,10 @@
             <!-- author of florilegia "Compendium moralium notabilium" -->
           </person>
             
+          <person xml:id="per-x84nST">
+            <persName xml:lang="en">Stephen Tempier</persName>
+            <note type="wikidata-id">Q543373</note>
+          </person>
           
           <person xml:id="per-jjska2">
             <persName xml:lang="en">Amandus Polanus von Polansdorf</persName>
