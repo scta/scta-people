@@ -2442,6 +2442,12 @@
             <persName xml:lang="la">Ludovicus Vives</persName>
             <!-- editor of 19th century scotus edition -->
           </person>
+          <person xml:id="per-av4Wad">
+            <persName xml:lang="en">Ludovicus Wadding</persName>
+            <persName xml:lang="la">Q1771793</persName>
+            <!-- editor of 1639 scotus edition -->
+          </person>
+          
         </listPerson>
         
       </listPerson>
