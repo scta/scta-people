@@ -2352,6 +2352,12 @@
             <note type="wikidata-id">Q454349</note>
             <!-- Reformation thinker; still being captured as scholastic thinker -->
           </person>
+          <person xml:id="per-x7hda7">
+            <persName xml:lang="en">Robert Baron</persName>
+            <note type="wikidata-id">Q7341887</note>
+            <!-- Reformation thinker; wrote philosophia theologiae ancillans -->
+          </person>
+          
           
           
           
