@@ -2428,7 +2428,24 @@
               
               Frequently pointed to be editors of Cordoba 1699 Giles of Rome Book 1 Sentences
               Lots of BSB copies: https://www.digitale-sammlungen.de/en/search?query=all%3A%28Frederico+Niccol%C3%B2+Gavardi%29
+              
+              Volume 1 https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10325399/manifest 
+              
            -->
+          </person>
+          <person xml:id="per-RDeDRD">
+            <persName xml:lang="en">René Descartes</persName>
+            <note type="wikidata-id">Q9191</note>
+            <!-- author of treatise on magnitism http://scta.info/resource/M8ag89 -->
+          </person>
+          <person xml:id="per-ANysna">
+            <persName xml:lang="en">Anonymous</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- Anonymous German Translator of magnet chapters in Descartes Principia as seen in 
+              Gotha, Forschungsbibliothek, Chart. A 707, fols. 190r-202v 
+              
+              
+            -->
           </person>
           
           
