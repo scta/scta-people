@@ -2414,6 +2414,12 @@
             <note type="wikidata-id">Q577394</note>
             <!-- author of treatise on magnitism http://scta.info/resource/M8ag89 -->
           </person>
+          <person xml:id="per-nc88aa">
+            <persName xml:lang="en">Niccolo Cabeo</persName>
+            <note type="wikidata-id">Q2880132</note>
+            <note type="order">Jesuit</note>
+            <!-- author of treatise on magnitism http://scta.info/resource/M8ag89 -->
+          </person>
           
           <person xml:id="per-Gav9di">
             <persName xml:lang="en">Frederico Niccolo Gavardi</persName>
