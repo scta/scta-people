@@ -1,9 +1,9 @@
 {
   "@context": "http://scta.info/api/core/1.0/people/context.json",
-  "@id": "http://scta.info/resource/JohannesBrakel",
+  "@id": "http://scta.info/resource/StephansuDeEntzendorf",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Johannes de Brakel", "@language": "en"}],
+  "dc:title": [{"@value": "Stephanus de Entzendorf", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohannesBrakel"
+  "sctap:shortId": "StephansuDeEntzendorf"
   }
     

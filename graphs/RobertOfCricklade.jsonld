@@ -1,0 +1,16 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/RobertOfCricklade",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Robert of Cricklade", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "RobertOfCricklade",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/AugustinianCanon"
+    ],
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q15431107.json"
+   ]
+  
+  }
+    

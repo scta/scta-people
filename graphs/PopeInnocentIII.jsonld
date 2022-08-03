@@ -4,6 +4,10 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Pope Innocent III", "@language": "en"},{"@value": "Papa Innocentius III", "@language": "la"}],
   "sctap:personType": "http://scta.info/resource/patristic",
-  "sctap:shortId": "PopeInnocentIII"
+  "sctap:shortId": "PopeInnocentIII",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q128076.json"
+   ]
+  
   }
     

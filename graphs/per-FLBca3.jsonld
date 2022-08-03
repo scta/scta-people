@@ -1,0 +1,12 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-FLBca3",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Franciscus Lychetus", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "per-FLBca3",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+    ]
+  }
+    

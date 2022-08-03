@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-uyt678",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "William Whitaker", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "per-uyt678",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q1380695.json"
+   ]
+  
+  }
+    

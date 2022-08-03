@@ -10,7 +10,7 @@ fs.readdir("../graphs/", (err, files) => {
   //clear xml supplment file
   fs.writeFile('../ProsopographySupplement.xml', '', function(){console.log('done')});
   // add xml header
-  var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'});
+  var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'};
     stream.write('<?xml version="1.0" encoding="UTF-8"?>\n<persons>\n');
   stream.end();
 
@@ -28,7 +28,7 @@ fs.readdir("../graphs/", (err, files) => {
           }).then((data) => {
             let description = undefined;
             if (data.data.entities[Object.keys(data.data.entities)[0]].descriptions){
-              description = data.data.entities[Object.keys(data.data.entities)[0]].descriptions.en.value;
+              description = data.data.entities[Object.keys(data.data.entities)[0]].descriptions.en && data.data.entities[Object.keys(data.data.entities)[0]].descriptions.en.value;
               console.log("description", description );
             }
             let label = undefined
@@ -37,13 +37,13 @@ fs.readdir("../graphs/", (err, files) => {
               console.log("label", label);
             }
             let birthdate = undefined
-            if(data.data.entities[Object.keys(data.data.entities)[0]].claims.P569){
-              birthdate = data.data.entities[Object.keys(data.data.entities)[0]].claims.P569[0].mainsnak.datavalue.value.time;
+            if(data.data.entities[Object.keys(data.data.entities)[0]].claims.P569 ){
+              birthdate = data.data.entities[Object.keys(data.data.entities)[0]].claims.P569[0].mainsnak.datavalue && data.data.entities[Object.keys(data.data.entities)[0]].claims.P569[0].mainsnak.datavalue.value.time;
               console.log("birthdate", birthdate);
             }
             let deathdate = undefined
             if(data.data.entities[Object.keys(data.data.entities)[0]].claims.P570){
-              deathdate = data.data.entities[Object.keys(data.data.entities)[0]].claims.P570[0].mainsnak.datavalue.value.time;
+              deathdate = data.data.entities[Object.keys(data.data.entities)[0]].claims.P570[0].mainsnak.datavalue && data.data.entities[Object.keys(data.data.entities)[0]].claims.P570[0].mainsnak.datavalue.value.time;
               console.log("deathdate", deathdate);
             }
             let orderid = undefined
@@ -118,8 +118,8 @@ function writeTofile(file, newjson){
 }
 
 function writeXMLfile(newjson){
-  const birthDate = newjson.dateofbirth.substring(1, 5)
-  const deathDate = newjson.dateofdeath.substring(1, 5)
+  const birthDate = newjson.dateofbirth && newjson.dateofbirth.substring(1, 5)
+  const deathDate = newjson.dateofdeath && newjson.dateofdeath.substring(1, 5)
   var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'});
   stream.write("<person>\n<shortId>" + newjson["sctap:shortId"] + "</shortId>\n<dateofbirth>" + birthDate + "</dateofbirth>\n<dateofdeath>" + deathDate + "</dateofdeath>\n<description>" + newjson.description + "</description>\n</person>\n");
   stream.end();

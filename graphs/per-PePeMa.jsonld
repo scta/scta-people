@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-PePeMa",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Petrus Peregrinus de Maricourt", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "per-PePeMa",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q577394.json"
+   ]
+  
+  }
+    

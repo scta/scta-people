@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/WillemHesselsVanEst",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Willem Hessels Van Est", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "WillemHesselsVanEst",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q960296.json"
+   ]
+  
+  }
+    

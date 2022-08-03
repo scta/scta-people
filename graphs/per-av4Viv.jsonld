@@ -1,0 +1,9 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-av4Viv",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Ludovicus Vives", "@language": "en"},{"@value": "Ludovicus Vives", "@language": "la"}],
+  "sctap:personType": "http://scta.info/resource/other",
+  "sctap:shortId": "per-av4Viv"
+  }
+    

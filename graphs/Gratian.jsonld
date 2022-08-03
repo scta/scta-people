@@ -3,7 +3,7 @@
   "@id": "http://scta.info/resource/Gratian",
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Gratian", "@language": "en"},{"@value": "Flavius Gratianus Augustus", "@language": "la"}],
-  "sctap:personType": "http://scta.info/resource/patristic",
+  "sctap:personType": "http://scta.info/resource/scholastic",
   "sctap:shortId": "Gratian"
   }
     

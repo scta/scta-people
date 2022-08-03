@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/Ulpianus",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Ulpianus", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/classical",
+  "sctap:shortId": "Ulpianus",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q310076.json"
+   ]
+  
+  }
+    

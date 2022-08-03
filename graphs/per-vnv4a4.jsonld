@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-vnv4a4",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Franciscus Salesius Schmitt", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/other",
+  "sctap:shortId": "per-vnv4a4",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q55772297.json"
+   ]
+  
+  }
+    

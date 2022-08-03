@@ -4,6 +4,13 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Andreas de Novo Castro", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "AndreasDeNovoCastro"
+  "sctap:shortId": "AndreasDeNovoCastro",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Franciscan"
+    ],
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q4760109.json"
+   ]
+  
   }
     

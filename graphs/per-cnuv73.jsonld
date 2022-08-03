@@ -1,0 +1,13 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-cnuv73",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "William St. Amour", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "per-cnuv73",
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q2576059.json"
+   ]
+  
+  }
+    

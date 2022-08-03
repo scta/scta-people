@@ -1,0 +1,16 @@
+{
+  "@context": "http://scta.info/api/core/1.0/people/context.json",
+  "@id": "http://scta.info/resource/per-nc88aa",
+  "@type": "http://scta.info/resource/person",
+  "dc:title": [{"@value": "Niccolo Cabeo", "@language": "en"}],
+  "sctap:personType": "http://scta.info/resource/scholastic",
+  "sctap:shortId": "per-nc88aa",
+  "sctap:hasAffiliation":  [
+    "http://scta.info/resource/Jesuit"
+    ],
+  "owl:sameAs": [
+          "https://www.wikidata.org/wiki/Special:EntityData/Q2880132.json"
+   ]
+  
+  }
+    

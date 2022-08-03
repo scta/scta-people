@@ -1,9 +1,9 @@
 {
   "@context": "http://scta.info/api/core/1.0/people/context.json",
-  "@id": "http://scta.info/resource/JohannesBrakel",
+  "@id": "http://scta.info/resource/per-U89ddd",
   "@type": "http://scta.info/resource/person",
-  "dc:title": [{"@value": "Johannes de Brakel", "@language": "en"}],
+  "dc:title": [{"@value": "Facinus de Ast", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "JohannesBrakel"
+  "sctap:shortId": "per-U89ddd"
   }
     
