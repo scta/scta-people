@@ -2454,6 +2454,19 @@
             -->
           </person>
           
+          <person xml:id="per-kSkSkS">
+            <persName xml:lang="en">Kilianus Stetzing</persName>
+            <note type="wikidata-id">Q17576814</note>
+          </person>
+          <person xml:id="per-jdwJDW">
+            <persName xml:lang="en">Johannes de Wesalia</persName>
+            <note type="wikidata-id">Q1696878</note>
+            <!--https://de.wikipedia.org/wiki/Johann_von_Wesel-->
+            <!-- Johann Ruchrat von Wesel  -->
+            <!-- active 15th century-->  
+            <!-- not to be confused with earlier person by the same name active in 14th century: https://de.wikipedia.org/wiki/Johannes_Rudolphi_de_Wesalia -->
+            
+          </person>
           
         </listPerson>
         <listPerson type="Other">
@@ -2475,7 +2488,7 @@
           </person>
           <person xml:id="per-av4Wad">
             <persName xml:lang="en">Ludovicus Wadding</persName>
-            <persName xml:lang="la">Q1771793</persName>
+            <note type="wikidata-id">Q1771793</note>
             <!-- editor of 1639 scotus edition -->
           </person>
           
