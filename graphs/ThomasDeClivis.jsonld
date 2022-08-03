@@ -4,10 +4,6 @@
   "@type": "http://scta.info/resource/person",
   "dc:title": [{"@value": "Thomas de Clivis", "@language": "en"}],
   "sctap:personType": "http://scta.info/resource/scholastic",
-  "sctap:shortId": "ThomasDeClivis",
-  "owl:sameAs": [
-          "https://www.wikidata.org/wiki/Special:EntityData/.json"
-   ]
-  
+  "sctap:shortId": "ThomasDeClivis"
   }
     

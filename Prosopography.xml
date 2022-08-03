@@ -1323,12 +1323,13 @@
           <person xml:id="DionysiusdeMontina">
             <persName xml:lang="en">Dionysius de Montina</persName>
             <note type="order">Augustinian</note>
-            <note type="wikidata-id"></note>
+            <note type="wikidata-id">Q17539512</note>
           </person>
           <person xml:id="JohannesdeWasia">
             <persName xml:lang="en">Johannes de Wasia</persName>
             <note type="order">Secular</note>
-            <note type="wikidata-id"></note>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- not sure who this is; could be deleted -->
           </person>
           <person xml:id="FrancisofMeyronnes">
             <persName xml:lang="en">Francis of Meyronnes</persName>
@@ -2038,7 +2039,7 @@
           <person xml:id="JohnBassolis">
             <persName xml:lang="en">John Bassolis</persName>
             <note type="order">Franciscan</note>
-            <note type="wikidata-id"></note>
+            <!--<note type="wikidata-id"></note>-->
             <!-- has sent commentary 
               Ioannes de Bassolis (OFM):  In quatuor Sententiarum libros   (Paris, 1517)
               http://capricorn.bc.edu/siepm/DOCUMENTS/Bassolis_IV%20Sent.pdf -->
@@ -2116,7 +2117,7 @@
           </person>
           <person xml:id="ThomasDeClivis">
             <persName xml:lang="en">Thomas de Clivis</persName>
-            <note type="wikidata-id"></note>
+            <!--<note type="wikidata-id"></note>-->
             <!--- included in RISE project ms -->
           </person>
           <person xml:id="StephansuDeEntzendorf">
@@ -2356,9 +2357,6 @@
             <persName xml:lang="en">Robert Baron</persName>
             <note type="wikidata-id">Q7341887</note>
             <!-- Reformation thinker; wrote philosophia theologiae ancillans -->
-          </person>
-          <person>
-            
           </person>
           <person xml:id="per-uyt678">
             <persName xml:lang="en">William Whitaker</persName>

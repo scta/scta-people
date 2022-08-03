@@ -7,10 +7,6 @@
   "sctap:shortId": "JohannesdeWasia",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Secular"
-    ],
-  "owl:sameAs": [
-          "https://www.wikidata.org/wiki/Special:EntityData/.json"
-   ]
-  
+    ]
   }
     

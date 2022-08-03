@@ -7,10 +7,6 @@
   "sctap:shortId": "JohnBassolis",
   "sctap:hasAffiliation":  [
     "http://scta.info/resource/Franciscan"
-    ],
-  "owl:sameAs": [
-          "https://www.wikidata.org/wiki/Special:EntityData/.json"
-   ]
-  
+    ]
   }
     

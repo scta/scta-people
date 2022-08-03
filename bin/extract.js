@@ -23,9 +23,11 @@ fs.readdir("../graphs/", (err, files) => {
     if (jsondata["owl:sameAs"]){
       jsondata["owl:sameAs"].forEach((d)=>{
         if (d.includes("https://www.wikidata.org/")){
+          console.log("url", d)
           axios.get(d, {
             headers: {'Content-Type': 'application/json'}
           }).then((data) => {
+            console.log('data TEST TEST TEST', data.data.entities[Object.keys(data.data.entities)[0]].claims.P569)
             let description = undefined;
             if (data.data.entities[Object.keys(data.data.entities)[0]].descriptions){
               description = data.data.entities[Object.keys(data.data.entities)[0]].descriptions.en && data.data.entities[Object.keys(data.data.entities)[0]].descriptions.en.value;
@@ -48,7 +50,7 @@ fs.readdir("../graphs/", (err, files) => {
             }
             let orderid = undefined
             if (data.data.entities[Object.keys(data.data.entities)[0]].claims.P611){
-              orderid = data.data.entities[Object.keys(data.data.entities)[0]].claims.P611[0].mainsnak.datavalue.value.id
+              orderid = data.data.entities[Object.keys(data.data.entities)[0]].claims.P611[0].mainsnak.datavalue && data.data.entities[Object.keys(data.data.entities)[0]].claims.P611[0].mainsnak.datavalue.value.id
               }
             if (orderid){
               getOrderLabel(orderid).then((data) => {
