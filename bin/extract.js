@@ -10,7 +10,7 @@ fs.readdir("../graphs/", (err, files) => {
   //clear xml supplment file
   fs.writeFile('../ProsopographySupplement.xml', '', function(){console.log('done')});
   // add xml header
-  var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'};
+  var stream = fs.createWriteStream("../ProsopographySupplement.xml", {flags:'a'});
     stream.write('<?xml version="1.0" encoding="UTF-8"?>\n<persons>\n');
   stream.end();
 
