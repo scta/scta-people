@@ -2364,7 +2364,10 @@
             <!-- Reformation thinker; wrote "Disputatio de sacra scriptura contra huius temporis Papistas" -->
           </person>
           
-          
+          <person xml:id="per-dOcdOc">
+            <persName xml:lang="en">Durand of Champagne</persName>
+            <!--<note type="wikidata-id"></note>-->
+          </person>
           
           
           
