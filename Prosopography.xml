@@ -2492,6 +2492,11 @@
             <note type="wikidata-id">Q1771793</note>
             <!-- editor of 1639 scotus edition -->
           </person>
+          <person xml:id="per-mdwmdw">
+            <persName xml:lang="en">Maurice de Wulf</persName>
+            <note type="wikidata-id">Q2746354</note>
+            <!-- editor of 1904 godfrey quodlibet edition -->
+          </person>
           
         </listPerson>
         
