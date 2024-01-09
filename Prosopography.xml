@@ -2469,6 +2469,10 @@
             
           </person>
           
+          <person xml:id="per-nbhytr">
+            <persName xml:lang="en">Philippus Probus</persName>
+            <!--<note type="wikidata-id"></note>-->
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
