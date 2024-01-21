@@ -2112,7 +2112,8 @@
             <note type="wikidata-id">Q15431107</note>
           </person>
           <person xml:id="WillemHesselsVanEst">
-            <persName xml:lang="en">Willem Hessels Van Est</persName>
+          <persName xml:lang="en">Guillelmus Estius</persName>
+            <!-- <persName xml:lang="en">Willem Hessels Van Est</persName> -->
             <note type="wikidata-id">Q960296</note>
           </person>
           <person xml:id="ThomasDeClivis">
