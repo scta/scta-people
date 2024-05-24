@@ -2474,6 +2474,12 @@
             <persName xml:lang="en">Philippus Probus</persName>
             <!--<note type="wikidata-id"></note>-->
           </person>
+          <person xml:id="per-bdlcbd">
+            <persName xml:lang="en">Bartolomé de las Casas</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q207416</note>
+          </person>
+          
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
