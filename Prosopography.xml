@@ -2479,6 +2479,12 @@
             <note type="order">Dominican</note>
             <note type="wikidata-id">Q207416</note>
           </person>
+          <person xml:id="per-ndtndt">
+            <persName xml:lang="en">Nicolo de Tudeschi</persName>
+            <note type="wikidata-id">Q1370153</note>
+            <!-- (1386-1445) -->
+          </person>
+          
           
         </listPerson>
         <listPerson type="Other">
