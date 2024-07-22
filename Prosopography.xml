@@ -2484,6 +2484,22 @@
             <note type="wikidata-id">Q1370153</note>
             <!-- (1386-1445) -->
           </person>
+          <person xml:id="per-nt88nt">
+            <persName xml:lang="en">Nicholas Trivet</persName>
+            <note type="wikidata-id">Q1751724</note>
+            <!-- wrote commentary on the consolation of philosophy -->
+          </person>
+          <person xml:id="per-bdp8db">
+            <persName xml:lang="en">Bernard of Parma</persName>
+            <note type="wikidata-id">Q942419</note>
+            <!-- wrote ordinary gloss on decretales -->
+          </person>
+          <person xml:id="per-ferq7p">
+            <persName xml:lang="en">Francesco Silvestri</persName>
+            <note type="order">Dominican</note>
+            <note type="wikidata-id">Q5479589</note>
+            <!-- wrote ordinary gloss on decretales -->
+          </person>
           
           
         </listPerson>
