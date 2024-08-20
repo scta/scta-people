@@ -2500,6 +2500,11 @@
             <note type="wikidata-id">Q5479589</note>
             <!-- wrote ordinary gloss on decretales -->
           </person>
+          <person xml:id="per-jpdw2a">
+            <persName xml:lang="en">Johannes Pfeffer de Weidenberg</persName>
+            <note type="wikidata-id">Q18223441</note>
+            <!-- wrote sentences commentary at Freiburg in the mid to late 15th century (1415-1493 according to wikidata-->
+          </person>
           
           
         </listPerson>
