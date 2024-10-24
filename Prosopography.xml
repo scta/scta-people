@@ -2510,6 +2510,12 @@
             <note type="wikidata-id">Q1973317</note>
             <!-- Philosophical course by Inokentii Gizel, taught at the Kyiv-Mohyla Academy at 1645/46–1646/47 academic years. Vernadsky National Library of Ukraine, fonds 303, 128.-->
           </person>
+          <person xml:id="per-sykisy">
+            <persName xml:lang="en">Stefan Yavorskyi</persName>
+            <note type="wikidata-id">Q2653133</note>
+            <!-- Philosophical course by Stefan Yavorskyi, taught at the Kyiv-Mohyla Academy in 1693-->
+          </person>
+          
           
           
         </listPerson>
