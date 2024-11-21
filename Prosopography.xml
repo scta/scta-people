@@ -519,7 +519,11 @@
             <persName xml:lang="la">Plinius</persName> <!-- Pliny the Elder -->
             <note type="wikidata-id">Q82778</note>
           </person>
-          
+          <person xml:id="per-c8ahhx">
+            <persName xml:lang="en">Frontinus</persName>
+            <persName xml:lang="la">Frontinus</persName>
+            <note type="wikidata-id">Q297377</note>
+          </person>
         </listPerson>
         <listPerson type="Divine">
           <person xml:id="God">
