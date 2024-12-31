@@ -2519,8 +2519,11 @@
             <note type="wikidata-id">Q2653133</note>
             <!-- Philosophical course by Stefan Yavorskyi, taught at the Kyiv-Mohyla Academy in 1693-->
           </person>
-          
-          
+          <person xml:id="per-g8a8b8">
+            <persName xml:lang="en">Gabriel Vazquez</persName>
+            <note type="wikidata-id">Q352513</note>
+            <note type="order">Jesuit</note>
+          </person>
           
         </listPerson>
         <listPerson type="Other">
