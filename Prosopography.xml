@@ -2553,7 +2553,10 @@
             <note type="wikidata-id">Q2746354</note>
             <!-- editor of 1904 godfrey quodlibet edition -->
           </person>
-          
+          <person xml:id="per-acj1ac">
+            <persName xml:lang="en">Samuel Fynewver</persName>
+            <!-- 2023 translator of las casa 30 propositions -->
+          </person>
         </listPerson>
         
       </listPerson>
