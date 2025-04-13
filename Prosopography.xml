@@ -2524,7 +2524,11 @@
             <note type="wikidata-id">Q352513</note>
             <note type="order">Jesuit</note>
           </person>
-          
+          <person xml:id="per-nbd2d8">
+            <persName xml:lang="en">Nicolaus Bonetus</persName>
+            <note type="wikidata-id">Q3340115</note>
+            <note type="order">Franciscan</note>
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
