@@ -2519,6 +2519,12 @@
             <note type="wikidata-id">Q2653133</note>
             <!-- Philosophical course by Stefan Yavorskyi, taught at the Kyiv-Mohyla Academy in 1693-->
           </person>
+          <person xml:id="per-ipoopi">
+            <persName xml:lang="en">Inokentii Popovskyi</persName>
+            <!--<note type="wikidata-id"></note>-->
+            <!-- Philosophical course by Inokentii Popovskyi, taught at the Kyiv-Mohyla Academy in 1699-1702 -->
+          </person>
+          
           <person xml:id="per-g8a8b8">
             <persName xml:lang="en">Gabriel Vazquez</persName>
             <note type="wikidata-id">Q352513</note>
