@@ -2524,6 +2524,12 @@
             <!--<note type="wikidata-id"></note>-->
             <!-- Philosophical course by Inokentii Popovskyi, taught at the Kyiv-Mohyla Academy in 1699-1702 -->
           </person>
+          <person xml:id="per-jm8hjm">
+            <persName xml:lang="en">Jan Morawski</persName>
+            <note type="order">Jesuit</note>
+            <note type="wikidata-id">Q16561582</note>
+            <!-- Thinker influenced Yavorskyi -->
+          </person>
           
           <person xml:id="per-g8a8b8">
             <persName xml:lang="en">Gabriel Vazquez</persName>
