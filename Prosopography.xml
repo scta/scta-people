@@ -698,6 +698,11 @@
             <persName xml:lang="la">Papa Innocentius II</persName>
             <note type="wikidata-id">Q170386</note>
           </person>
+          <person xml:id="per-inivin">
+            <persName xml:lang="en">Pope Innocent IV</persName>
+            <!-- Sinibaldo Fieschi -->
+            <note type="wikidata-id">Q160609</note>
+          </person>
           <person xml:id="PopeGregoryIV">
             <persName xml:lang="en">Pope Gregory IV</persName>
           </person>
