@@ -703,6 +703,12 @@
             <!-- Sinibaldo Fieschi -->
             <note type="wikidata-id">Q160609</note>
           </person>
+          <person xml:id="per-boppob">
+            <persName xml:lang="en">Bernard of Parma</persName>
+            <!-- Bernard_of_Botone -->
+            <note type="wikidata-id">Q942419</note>
+          </person>
+          
           <person xml:id="PopeGregoryIV">
             <persName xml:lang="en">Pope Gregory IV</persName>
           </person>
@@ -1385,7 +1391,9 @@
             
             works: 
             Disputationes theologicas in primam partem divi Thomae, de deo uno,Lyon,1663-1666,2 vols.
-            Disputaciones scholasticae et morales de virtute fide divinae, deque infidelitate, haeresi et poenis haereticorum ,Lyon,1673.
+            
+            Disputaciones scholasticae et morales de virtute fide divinae, deque infidelitate, haeresi et poenis haereticorum ,Lyon,1673. (See https://digibug.ugr.es/handle/10481/82649?locale-attribute=en; already downloaded in cod-pfdsmv)
+            
             Tractatus de incarnatione verbi divini ,Lyon,1678.
             
             Brother of Alfonso de Penafiel
@@ -2269,7 +2277,7 @@
             <note type="wikidata-id">Q123839</note>
           </person>
           <person xml:id="MelchiorCano">
-            <persName xml:lang="en">Melchior Cano</persName>
+            <persName xml:lang="en">Melchor Cano</persName>
             <note type="wikidata-id">Q644162</note>
             <note type="order">Dominican</note>
           </person>
@@ -2545,6 +2553,11 @@
             <persName xml:lang="en">Nicolaus Bonetus</persName>
             <note type="wikidata-id">Q3340115</note>
             <note type="order">Franciscan</note>
+          </person>
+          <person xml:id="per-gv44gv">
+            <persName xml:lang="en">Giles of Viterbo</persName>
+            <note type="wikidata-id">Q380652</note>
+            <note type="order">Augustinian</note>
           </person>
         </listPerson>
         <listPerson type="Other">
