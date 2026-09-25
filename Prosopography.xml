@@ -2532,6 +2532,11 @@
             <note type="wikidata-id">Q2653133</note>
             <!-- Philosophical course by Stefan Yavorskyi, taught at the Kyiv-Mohyla Academy in 1693-->
           </person>
+          <person xml:id="per-fpk8py">
+            <persName xml:lang="en">Feofan Prokopovych</persName>
+            <note type="wikidata-id">Q348899</note>
+            <!-- Feofan Prokopovych, De processione Spiritus Sancti a solo Patre (1714) -->
+          </person>
           <person xml:id="per-ipoopi">
             <persName xml:lang="en">Inokentii Popovskyi</persName>
             <!--<note type="wikidata-id"></note>-->
