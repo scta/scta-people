@@ -2596,6 +2596,11 @@
             <persName xml:lang="en">Samuel Fynewver</persName>
             <!-- 2023 translator of las casa 30 propositions -->
           </person>
+          <person xml:id="per-miplgn">
+            <persName xml:lang="en">Jacques Paul Migne</persName>
+            <note type="wikidata-id">Q326431</note>
+            
+          </person>
         </listPerson>
         
       </listPerson>
