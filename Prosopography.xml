@@ -822,6 +822,11 @@
             <note type="dbpedia-url">http://dbpedia.org/resource/Anselm_of_Canterbury</note>
             <note type="wikidata-id">Q43939</note>
           </person>
+          <person xml:id="per-s7hans">
+            <persName xml:lang="en">Anselm of Laon</persName>
+            <persName xml:lang="la">Anselmus Laudunensis</persName>
+            <note type="wikidata-id">Q569607</note>
+          </person>
           <person xml:id="Aureoli">
             <persName xml:lang="en">Peter Aureoli</persName>
             <note type="dbpedia-url">http://dbpedia.org/resource/Petrus_Aureolus</note>
