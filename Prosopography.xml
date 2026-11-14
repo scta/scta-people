@@ -2573,6 +2573,10 @@
             <persName xml:lang="en">Stanislaus Hosius</persName>
             <note type="wikidata-id">Q61962</note>
           </person>
+          <person xml:id="per-XULAQn">
+            <persName xml:lang="en">Bernardus de Parentis</persName>
+            <note type="wikidata-id">Q95271011</note>
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
