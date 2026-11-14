@@ -2577,6 +2577,10 @@
             <persName xml:lang="en">Bernardus de Parentis</persName>
             <note type="wikidata-id">Q95271011</note>
           </person>
+          <person xml:id="per-3nylfx">
+            <persName xml:lang="en">Antony Hickey</persName>
+            <note type="wikidata-id">Q4777211</note>
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
