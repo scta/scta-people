@@ -68,7 +68,7 @@ jobs:
           {
             echo "Adds **$NAME** as \`$PERSON_ID\`, requested in #$ISSUE."
             echo
-            echo "Wikidata [$QID](https://www.wikidata.org/wiki/$QID): $WD_LABEL — $WD_DESCRIPTION"
+            echo "Wikidata [$QID](https://www.wikidata.org/wiki/$QID): $WD_LABEL${WD_DESCRIPTION:+ — $WD_DESCRIPTION}"
             echo
             echo "Please check that the Wikidata entry is the intended person before merging."
             echo

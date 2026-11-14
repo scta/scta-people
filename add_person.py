@@ -47,7 +47,7 @@ def parse_issue_body(body):
 
 def new_person_id(text):
     existing = set(re.findall(r'xml:id="([^"]+)"', text))
-    alphabet = string.ascii_letters + string.digits
+    alphabet = string.ascii_lowercase + string.digits
     while True:
         candidate = "per-" + "".join(random.choices(alphabet, k=6))
         if candidate not in existing:
