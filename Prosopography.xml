@@ -10,7 +10,7 @@
           2013</date> </edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+        <publisher>SCTA Prosopography</publisher>
         <pubPlace>Baltimore, MD</pubPlace>
         <availability status="free">
           <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/"
@@ -1471,7 +1471,7 @@
             <!-- second scholastic -->
           </person>
           <person xml:id="JohnPunch">
-            <persName xml:lang="en">JohnPunch</persName>
+            <persName xml:lang="en">Joannes Poncius</persName>
             <note type="order">Franciscan</note>
             <note type="wikidata-id">Q1698179</note>
             <!-- irish franciscan Scotist working; lived from 1603-1661 -->
