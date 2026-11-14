@@ -1,0 +1,47 @@
+name: Add a person
+description: Request a new entry in the SCTA prosopography. A pull request is opened automatically.
+title: "New person: "
+labels: ["new-person"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the person's preferred name and their Wikidata id. Dates and a short
+        description will be pulled from Wikidata automatically, and a pull request will
+        be opened for an editor to review.
+  - type: input
+    id: name
+    attributes:
+      label: Preferred name
+      description: The English form of the name as it should appear in the SCTA.
+      placeholder: Jacques Paul Migne
+    validations:
+      required: true
+  - type: input
+    id: wikidata
+    attributes:
+      label: Wikidata ID
+      description: The Q-number from the person's Wikidata page (a full Wikidata URL also works).
+      placeholder: Q326431
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Arabic
+        - Biblical
+        - Classical
+        - Divine
+        - Patristic
+        - Scholastic
+        - Other
+      default: 5
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Note
+      description: Optional. Kept as a comment in the record, e.g. "editor of 1904 Godfrey quodlibet edition".

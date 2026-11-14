@@ -76,33 +76,47 @@ def read_existing_supplement():
     return existing
 
 
+def request_batch(batch):
+    params = urllib.parse.urlencode({
+        "action": "wbgetentities",
+        "ids": "|".join(batch),
+        "props": "labels|descriptions|claims",
+        "languages": "en",
+        "format": "json",
+    })
+    request = urllib.request.Request(f"{API}?{params}", headers={"User-Agent": USER_AGENT})
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                raise
+            time.sleep(2 ** attempt * 5)
+
+
 def fetch_entities(qids):
-    """Fetch entities from Wikidata in batches. Returns {Qid: entity}."""
+    """Fetch entities from Wikidata in batches. Returns {requested Qid: entity}.
+
+    Ids that do not exist come back as {"id": ..., "missing": ""}.
+    """
     entities = {}
     for i in range(0, len(qids), BATCH_SIZE):
-        batch = qids[i:i + BATCH_SIZE]
-        params = urllib.parse.urlencode({
-            "action": "wbgetentities",
-            "ids": "|".join(batch),
-            "props": "descriptions|claims",
-            "languages": "en",
-            "format": "json",
-        })
-        request = urllib.request.Request(f"{API}?{params}", headers={"User-Agent": USER_AGENT})
-        for attempt in range(4):
-            try:
-                with urllib.request.urlopen(request, timeout=60) as response:
-                    data = json.load(response)
-                break
-            except urllib.error.HTTPError as e:
-                if e.code not in (429, 500, 502, 503, 504) or attempt == 3:
-                    raise
-                time.sleep(2 ** attempt * 5)
-        if "error" in data:
-            raise RuntimeError(f"Wikidata error: {data['error']}")
-        for qid, entity in data.get("entities", {}).items():
-            # Follow redirects: the API keys redirected entities by the requested id.
-            entities[qid] = entity
+        batch = list(qids[i:i + BATCH_SIZE])
+        while batch:
+            data = request_batch(batch)
+            error = data.get("error")
+            # One nonexistent id fails the whole batch: drop it and retry the rest.
+            if error and error.get("code") == "no-such-entity" and error.get("id") in batch:
+                entities[error["id"]] = {"id": error["id"], "missing": ""}
+                batch.remove(error["id"])
+                continue
+            if error:
+                raise RuntimeError(f"Wikidata error: {error}")
+            for qid, entity in data.get("entities", {}).items():
+                # A merged item is returned under its new id, with the requested one in "redirects".
+                entities[entity.get("redirects", {}).get("from", qid)] = entity
+            break
         print(f"fetched {min(i + BATCH_SIZE, len(qids))}/{len(qids)}", file=sys.stderr)
     return entities
 
@@ -139,6 +153,9 @@ def extract(entity, short_id):
     if "missing" in entity:
         print(f"warning: {short_id} points to a missing Wikidata entity {entity.get('id')}", file=sys.stderr)
         return {}
+    if "redirects" in entity:
+        print(f"note: {short_id} {entity['redirects']['from']} now redirects to {entity['id']}; "
+              "consider updating Prosopography.xml", file=sys.stderr)
     description = entity.get("descriptions", {}).get("en", {}).get("value")
     fields = {
         "dateofbirth": year(entity, "P569"),

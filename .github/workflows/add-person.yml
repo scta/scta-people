@@ -1,0 +1,78 @@
+name: Add person from issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  add-person:
+    if: contains(github.event.issue.labels.*.name, 'new-person')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The issue body is untrusted input: it is passed through an environment
+      # variable, never interpolated into the shell script.
+      - name: Add record to Prosopography.xml
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          if ! printf '%s' "$ISSUE_BODY" | python3 add_person.py --issue-body - 2> error.txt; then
+            cat error.txt
+            {
+              echo "Sorry, this request could not be added automatically:"
+              echo
+              echo '```'
+              cat error.txt
+              echo '```'
+              echo
+              echo "Please open a new issue with the corrected information."
+            } > comment.md
+            gh issue comment "$ISSUE" --body-file comment.md
+            exit 1
+          fi
+          cat error.txt
+
+      - name: Fetch dates and description from Wikidata
+        run: python3 update_supplement.py --missing-only
+
+      - name: Open pull request
+        env:
+          PERSON_ID: ${{ steps.add.outputs.person_id }}
+          NAME: ${{ steps.add.outputs.name }}
+          QID: ${{ steps.add.outputs.qid }}
+          WD_LABEL: ${{ steps.add.outputs.wikidata_label }}
+          WD_DESCRIPTION: ${{ steps.add.outputs.wikidata_description }}
+        run: |
+          branch="new-person/issue-$ISSUE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898313+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add Prosopography.xml ProsopographySupplement.xml
+          git commit -m "Add $NAME ($PERSON_ID)" -m "Closes #$ISSUE"
+          git push origin "$branch"
+
+          {
+            echo "Adds **$NAME** as \`$PERSON_ID\`, requested in #$ISSUE."
+            echo
+            echo "Wikidata [$QID](https://www.wikidata.org/wiki/$QID): $WD_LABEL — $WD_DESCRIPTION"
+            echo
+            echo "Please check that the Wikidata entry is the intended person before merging."
+            echo
+            echo "Closes #$ISSUE"
+          } > pr.md
+          url=$(gh pr create --title "Add $NAME" --body-file pr.md --head "$branch")
+          gh issue comment "$ISSUE" --body "Thanks! A pull request has been opened for review: $url"
