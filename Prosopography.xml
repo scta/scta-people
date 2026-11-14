@@ -2569,6 +2569,10 @@
             <note type="wikidata-id">Q380652</note>
             <note type="order">Augustinian</note>
           </person>
+          <person xml:id="per-hos777">
+            <persName xml:lang="en">Stanislaus Hosius</persName>
+            <note type="wikidata-id">Q61962</note>
+          </person>
         </listPerson>
         <listPerson type="Other">
           <person xml:id="per-vnv4a4">
